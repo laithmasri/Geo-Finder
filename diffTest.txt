@@ -1,0 +1,410 @@
+filename GB.txt							filename GB.txt
+place Catfort							place Catfort
+   GB    PR4    Catforth     England    ENG    Lancashire    		GB	PR4	Catforth	England	ENG	Lanca
+distance NG32 PA32						distance NG32 PA32
+    GB    NG32    Woolsthorpe    England    ENG    Leicesters		GB	NG32	Woolsthorpe	England	ENG	Leice
+Sorry, postal code PA32 was not found.			      |		GB	PA32	Crarae	Scotland	SCT	Argyl
+							      >		Distance: 462.429336 km
+postal TF6P							postal TF6P
+Sorry, postal code TF6P was not found.				Sorry, postal code TF6P was not found.
+county KentQ							county KentQ
+Sorry, county KentQ was not found.				Sorry, county KentQ was not found.
+distance SO32 EH1Y						distance SO32 EH1Y
+    GB    SO32    Curdridge    England    ENG    Hampshire   		GB	SO32	Curdridge	England	ENG	Hamps
+Sorry, postal code EH1Y was not found.				Sorry, postal code EH1Y was not found.
+postal FY4							postal FY4
+    GB    FY4    Squires Gate    England    ENG    Lancashire		GB	FY4	Squires Gate	England	ENG	Lanca
+    GB    FY4    Common Edge    England    ENG    Lancashire 		GB	FY4	Common Edge	England	ENG	Lanca
+place Bicknacret						place Bicknacret
+Sorry, place name Bicknacret was not found.			Sorry, place name Bicknacret was not found.
+county Cambridgeshir						county Cambridgeshir
+      GB      CB1    Cherry Hinton       England    ENG    Ca		GB	CB1	Cherry Hinton	England	ENG	Cambr
+      GB      CB1    Teversham       England    ENG    Cambri		GB	CB1	Teversham	England	ENG	Cambr
+      GB      CB1    Lark Hall       England    ENG    Cambri		GB	CB1	Lark Hall	England	ENG	Cambr
+      GB      CB1    Hildersham       England    ENG    Cambr		GB	CB1	Hildersham	England	ENG	Cambr
+      GB      CB1    Bartlow       England    ENG    Cambridg		GB	CB1	Bartlow	England	ENG	Cambridgeshir
+      GB      CB1    Little Wilbraham       England    ENG   		GB	CB1	Little Wilbraham	England	ENG
+      GB      CB1    Little Abington       England    ENG    		GB	CB1	Little Abington	England	ENG	Cambr
+      GB      CB1    Hadstock       England    ENG    Cambrid		GB	CB1	Hadstock	England	ENG	Cambr
+      GB      CB1    Fulbourn       England    ENG    Cambrid		GB	CB1	Fulbourn	England	ENG	Cambr
+      GB      CB1    Great Abington       England    ENG    C		GB	CB1	Great Abington	England	ENG	Cambr
+      GB      CB1    Balsham       England    ENG    Cambridg		GB	CB1	Balsham	England	ENG	Cambridgeshir
+      GB      CB1    Weston Colville       England    ENG    		GB	CB1	Weston Colville	England	ENG	Cambr
+      GB      CB1    West Wickham       England    ENG    Cam		GB	CB1	West Wickham	England	ENG	Cambr
+      GB      CB1    Camps End       England    ENG    Cambri		GB	CB1	Camps End	England	ENG	Cambr
+      GB      CB1    Horseheath       England    ENG    Cambr		GB	CB1	Horseheath	England	ENG	Cambr
+      GB      CB1    Linton       England    ENG    Cambridge		GB	CB1	Linton	England	ENG	Cambridgeshir
+      GB      CB1    Weston Green       England    ENG    Cam		GB	CB1	Weston Green	England	ENG	Cambr
+      GB      CB1    West Wratting       England    ENG    Ca		GB	CB1	West Wratting	England	ENG	Cambr
+      GB      CB1    Castle Camps       England    ENG    Cam		GB	CB1	Castle Camps	England	ENG	Cambr
+      GB      CB1    Shudy Camps       England    ENG    Camb		GB	CB1	Shudy Camps	England	ENG	Cambr
+      GB      CB1    Great Wilbraham       England    ENG    		GB	CB1	Great Wilbraham	England	ENG	Cambr
+      GB      CB1    Church End       England    ENG    Cambr		GB	CB1	Church End	England	ENG	Cambr
+      GB      CB10    Hinxton       England    ENG    Cambrid		GB	CB10	Hinxton	England	ENG	Cambridgeshir
+      GB      CB10    Ickleton       England    ENG    Cambri		GB	CB10	Ickleton	England	ENG	Cambr
+      GB      CB2    Barrington       England    ENG    Cambr		GB	CB2	Barrington	England	ENG	Cambr
+      GB      CB2    Harston       England    ENG    Cambridg		GB	CB2	Harston	England	ENG	Cambridgeshir
+      GB      CB2    Foxton       England    ENG    Cambridge		GB	CB2	Foxton	England	ENG	Cambridgeshir
+      GB      CB2    Little Shelford       England    ENG    		GB	CB2	Little Shelford	England	ENG	Cambr
+      GB      CB2    Sawston       England    ENG    Cambridg		GB	CB2	Sawston	England	ENG	Cambridgeshir
+      GB      CB2    Newton       England    ENG    Cambridge		GB	CB2	Newton	England	ENG	Cambridgeshir
+      GB      CB2    Duxford       England    ENG    Cambridg		GB	CB2	Duxford	England	ENG	Cambridgeshir
+      GB      CB2    Pampisford       England    ENG    Cambr		GB	CB2	Pampisford	England	ENG	Cambr
+      GB      CB2    Babraham       England    ENG    Cambrid		GB	CB2	Babraham	England	ENG	Cambr
+      GB      CB2    Hauxton       England    ENG    Cambridg		GB	CB2	Hauxton	England	ENG	Cambridgeshir
+      GB      CB2    Great Shelford       England    ENG    C		GB	CB2	Great Shelford	England	ENG	Cambr
+      GB      CB2    Stapleford       England    ENG    Cambr		GB	CB2	Stapleford	England	ENG	Cambr
+      GB      CB2    Whittlesford       England    ENG    Cam		GB	CB2	Whittlesford	England	ENG	Cambr
+      GB      CB2    Trumpington       England    ENG    Camb		GB	CB2	Trumpington	England	ENG	Cambr
+      GB      CB21    Cambridge       England    ENG    Cambr		GB	CB21	Cambridge	England	ENG	Cambr
+      GB      CB21    Weston Colville       England    ENG   		GB	CB21	Weston Colville	England	ENG	Cambr
+      GB      CB21    Great Abington       England    ENG    		GB	CB21	Great Abington	England	ENG	Cambr
+      GB      CB21    Little Abington       England    ENG   		GB	CB21	Little Abington	England	ENG	Cambr
+      GB      CB21    Balsham       England    ENG    Cambrid		GB	CB21	Balsham	England	ENG	Cambridgeshir
+      GB      CB21    Bartlow       England    ENG    Cambrid		GB	CB21	Bartlow	England	ENG	Cambridgeshir
+      GB      CB21    Pampisford       England    ENG    Camb		GB	CB21	Pampisford	England	ENG	Cambr
+      GB      CB21    Great Wilbraham       England    ENG   		GB	CB21	Great Wilbraham	England	ENG	Cambr
+      GB      CB21    Shudy Camps       England    ENG    Cam		GB	CB21	Shudy Camps	England	ENG	Cambr
+      GB      CB21    Fulbourn       England    ENG    Cambri		GB	CB21	Fulbourn	England	ENG	Cambr
+      GB      CB21    Linton       England    ENG    Cambridg		GB	CB21	Linton	England	ENG	Cambridgeshir
+      GB      CB21    Little Wilbraham       England    ENG  		GB	CB21	Little Wilbraham	England	ENG
+      GB      CB21    Horseheath       England    ENG    Camb		GB	CB21	Horseheath	England	ENG	Cambr
+      GB      CB21    West Wratting       England    ENG    C		GB	CB21	West Wratting	England	ENG	Cambr
+      GB      CB21    West Wickham       England    ENG    Ca		GB	CB21	West Wickham	England	ENG	Cambr
+      GB      CB21    Castle Camps       England    ENG    Ca		GB	CB21	Castle Camps	England	ENG	Cambr
+      GB      CB21    Hildersham       England    ENG    Camb		GB	CB21	Hildersham	England	ENG	Cambr
+      GB      CB22    Stapleford       England    ENG    Camb		GB	CB22	Stapleford	England	ENG	Cambr
+      GB      CB22    Harston       England    ENG    Cambrid		GB	CB22	Harston	England	ENG	Cambridgeshir
+      GB      CB22    Thriplow       England    ENG    Cambri		GB	CB22	Thriplow	England	ENG	Cambr
+      GB      CB22    Haslingfield       England    ENG    Ca		GB	CB22	Haslingfield	England	ENG	Cambr
+      GB      CB22    Babraham       England    ENG    Cambri		GB	CB22	Babraham	England	ENG	Cambr
+      GB      CB22    Pampisford       England    ENG    Camb		GB	CB22	Pampisford	England	ENG	Cambr
+      GB      CB22    Whittlesford       England    ENG    Ca		GB	CB22	Whittlesford	England	ENG	Cambr
+      GB      CB22    Barrington       England    ENG    Camb		GB	CB22	Barrington	England	ENG	Cambr
+      GB      CB22    Sawston       England    ENG    Cambrid		GB	CB22	Sawston	England	ENG	Cambridgeshir
+      GB      CB22    Great Shelford       England    ENG    		GB	CB22	Great Shelford	England	ENG	Cambr
+      GB      CB22    Hinxton       England    ENG    Cambrid		GB	CB22	Hinxton	England	ENG	Cambridgeshir
+      GB      CB22    Hauxton       England    ENG    Cambrid		GB	CB22	Hauxton	England	ENG	Cambridgeshir
+      GB      CB22    Queen Edith's Ward       England    ENG		GB	CB22	Queen Edith's Ward	England	ENG
+      GB      CB22    Little Shelford       England    ENG   		GB	CB22	Little Shelford	England	ENG	Cambr
+      GB      CB22    Balsham       England    ENG    Cambrid		GB	CB22	Balsham	England	ENG	Cambridgeshir
+      GB      CB22    Newton       England    ENG    Cambridg		GB	CB22	Newton	England	ENG	Cambridgeshir
+      GB      CB22    Cambridge       England    ENG    Cambr		GB	CB22	Cambridge	England	ENG	Cambr
+      GB      CB22    Duxford       England    ENG    Cambrid		GB	CB22	Duxford	England	ENG	Cambridgeshir
+      GB      CB22    Foxton       England    ENG    Cambridg		GB	CB22	Foxton	England	ENG	Cambridgeshir
+      GB      CB23    Cambridge       England    ENG    Cambr		GB	CB23	Cambridge	England	ENG	Cambr
+      GB      CB23    Castle Ward       England    ENG    Cam		GB	CB23	Castle Ward	England	ENG	Cambr
+      GB      CB23    Papworth St. Agnes       England    ENG		GB	CB23	Papworth St. Agnes	England	ENG
+      GB      CB23    Longstowe       England    ENG    Cambr		GB	CB23	Longstowe	England	ENG	Cambr
+      GB      CB23    Knapwell       England    ENG    Cambri		GB	CB23	Knapwell	England	ENG	Cambr
+      GB      CB23    Swavesey       England    ENG    Cambri		GB	CB23	Swavesey	England	ENG	Cambr
+      GB      CB23    Oakington and Westwick       England   		GB	CB23	Oakington and Westwick	England	ENG
+      GB      CB23    Barton       England    ENG    Cambridg		GB	CB23	Barton	England	ENG	Cambridgeshir
+      GB      CB23    Childerley       England    ENG    Camb		GB	CB23	Childerley	England	ENG	Cambr
+      GB      CB23    Caldecote       England    ENG    Cambr		GB	CB23	Caldecote	England	ENG	Cambr
+      GB      CB23    Little Eversden       England    ENG   		GB	CB23	Little Eversden	England	ENG	Cambr
+      GB      CB23    Great Eversden       England    ENG    		GB	CB23	Great Eversden	England	ENG	Cambr
+      GB      CB23    Cambourne       England    ENG    Cambr		GB	CB23	Cambourne	England	ENG	Cambr
+      GB      CB23    Harlton       England    ENG    Cambrid		GB	CB23	Harlton	England	ENG	Cambridgeshir
+      GB      CB23    Toft       England    ENG    Cambridges		GB	CB23	Toft	England	ENG	Cambridgeshir
+      GB      CB23    Eltisley       England    ENG    Cambri		GB	CB23	Eltisley	England	ENG	Cambr
+      GB      CB23    Elsworth       England    ENG    Cambri		GB	CB23	Elsworth	England	ENG	Cambr
+      GB      CB23    Papworth Everard       England    ENG  		GB	CB23	Papworth Everard	England	ENG
+      GB      CB23    Boxworth       England    ENG    Cambri		GB	CB23	Boxworth	England	ENG	Cambr
+      GB      CB23    Lolworth       England    ENG    Cambri		GB	CB23	Lolworth	England	ENG	Cambr
+      GB      CB23    Dry Drayton       England    ENG    Cam		GB	CB23	Dry Drayton	England	ENG	Cambr
+      GB      CB23    Hardwick       England    ENG    Cambri		GB	CB23	Hardwick	England	ENG	Cambr
+      GB      CB23    Haslingfield       England    ENG    Ca		GB	CB23	Haslingfield	England	ENG	Cambr
+      GB      CB23    Comberton       England    ENG    Cambr		GB	CB23	Comberton	England	ENG	Cambr
+      GB      CB23    Bar Hill       England    ENG    Cambri		GB	CB23	Bar Hill	England	ENG	Cambr
+      GB      CB23    Longstanton       England    ENG    Cam		GB	CB23	Longstanton	England	ENG	Cambr
+      GB      CB23    Kingston       England    ENG    Cambri		GB	CB23	Kingston	England	ENG	Cambr
+      GB      CB23    Harston       England    ENG    Cambrid		GB	CB23	Harston	England	ENG	Cambridgeshir
+      GB      CB23    Grantchester       England    ENG    Ca		GB	CB23	Grantchester	England	ENG	Cambr
+      GB      CB23    Conington       England    ENG    Cambr		GB	CB23	Conington	England	ENG	Cambr
+      GB      CB23    Coton       England    ENG    Cambridge		GB	CB23	Coton	England	ENG	Cambridgeshir
+      GB      CB23    Caxton       England    ENG    Cambridg		GB	CB23	Caxton	England	ENG	Cambridgeshir
+      GB      CB23    Madingley       England    ENG    Cambr		GB	CB23	Madingley	England	ENG	Cambr
+      GB      CB23    Bourn       England    ENG    Cambridge		GB	CB23	Bourn	England	ENG	Cambridgeshir
+      GB      CB24    Cottenham       England    ENG    Cambr		GB	CB24	Cottenham	England	ENG	Cambr
+      GB      CB24    Fen Ditton       England    ENG    Camb		GB	CB24	Fen Ditton	England	ENG	Cambr
+      GB      CB24    Oakington and Westwick       England   		GB	CB24	Oakington and Westwick	England	ENG
+      GB      CB24    Fen Drayton       England    ENG    Cam		GB	CB24	Fen Drayton	England	ENG	Cambr
+      GB      CB24    Cambridge       England    ENG    Cambr		GB	CB24	Cambridge	England	ENG	Cambr
+      GB      CB24    Waterbeach       England    ENG    Camb		GB	CB24	Waterbeach	England	ENG	Cambr
+      GB      CB24    Willingham       England    ENG    Camb		GB	CB24	Willingham	England	ENG	Cambr
+      GB      CB24    Swavesey       England    ENG    Cambri		GB	CB24	Swavesey	England	ENG	Cambr
+      GB      CB24    Impington       England    ENG    Cambr		GB	CB24	Impington	England	ENG	Cambr
+      GB      CB24    Rampton       England    ENG    Cambrid		GB	CB24	Rampton	England	ENG	Cambridgeshir
+      GB      CB24    Milton       England    ENG    Cambridg		GB	CB24	Milton	England	ENG	Cambridgeshir
+      GB      CB24    Over       England    ENG    Cambridges		GB	CB24	Over	England	ENG	Cambridgeshir
+      GB      CB24    Longstanton       England    ENG    Cam		GB	CB24	Longstanton	England	ENG	Cambr
+      GB      CB24    Histon       England    ENG    Cambridg		GB	CB24	Histon	England	ENG	Cambridgeshir
+      GB      CB25    Stow cum Quy       England    ENG    Ca		GB	CB25	Stow cum Quy	England	ENG	Cambr
+      GB      CB25    Bottisham       England    ENG    Cambr		GB	CB25	Bottisham	England	ENG	Cambr
+      GB      CB25    Swaffham Prior       England    ENG    		GB	CB25	Swaffham Prior	England	ENG	Cambr
+      GB      CB25    Waterbeach       England    ENG    Camb		GB	CB25	Waterbeach	England	ENG	Cambr
+      GB      CB25    Horningsea       England    ENG    Camb		GB	CB25	Horningsea	England	ENG	Cambr
+      GB      CB25    Lode       England    ENG    Cambridges		GB	CB25	Lode	England	ENG	Cambridgeshir
+      GB      CB25    Landbeach       England    ENG    Cambr		GB	CB25	Landbeach	England	ENG	Cambr
+      GB      CB25    Abbey Ward       England    ENG    Camb		GB	CB25	Abbey Ward	England	ENG	Cambr
+      GB      CB25    Stretham       England    ENG    Cambri		GB	CB25	Stretham	England	ENG	Cambr
+      GB      CB25    Cottenham       England    ENG    Cambr		GB	CB25	Cottenham	England	ENG	Cambr
+      GB      CB25    Reach       England    ENG    Cambridge		GB	CB25	Reach	England	ENG	Cambridgeshir
+      GB      CB25    Swaffham Bulbeck       England    ENG  		GB	CB25	Swaffham Bulbeck	England	ENG
+      GB      CB25    Burwell       England    ENG    Cambrid		GB	CB25	Burwell	England	ENG	Cambridgeshir
+      GB      CB3    Girton       England    ENG    Cambridge		GB	CB3	Girton	England	ENG	Cambridgeshir
+      GB      CB3    Dry Drayton       England    ENG    Camb		GB	CB3	Dry Drayton	England	ENG	Cambr
+      GB      CB3    Kingston       England    ENG    Cambrid		GB	CB3	Kingston	England	ENG	Cambr
+      GB      CB3    Conington       England    ENG    Cambri		GB	CB3	Conington	England	ENG	Cambr
+      GB      CB3    Hardwick       England    ENG    Cambrid		GB	CB3	Hardwick	England	ENG	Cambr
+      GB      CB3    Lolworth       England    ENG    Cambrid		GB	CB3	Lolworth	England	ENG	Cambr
+      GB      CB3    Comberton       England    ENG    Cambri		GB	CB3	Comberton	England	ENG	Cambr
+      GB      CB3    Elsworth       England    ENG    Cambrid		GB	CB3	Elsworth	England	ENG	Cambr
+      GB      CB3    Barton       England    ENG    Cambridge		GB	CB3	Barton	England	ENG	Cambridgeshir
+      GB      CB3    Caldecote       England    ENG    Cambri		GB	CB3	Caldecote	England	ENG	Cambr
+      GB      CB3    Caxton       England    ENG    Cambridge		GB	CB3	Caxton	England	ENG	Cambridgeshir
+      GB      CB3    Bourn       England    ENG    Cambridges		GB	CB3	Bourn	England	ENG	Cambridgeshir
+      GB      CB3    Haslingfield       England    ENG    Cam		GB	CB3	Haslingfield	England	ENG	Cambr
+      GB      CB3    Bar Hill       England    ENG    Cambrid		GB	CB3	Bar Hill	England	ENG	Cambr
+      GB      CB3    Boxworth       England    ENG    Cambrid		GB	CB3	Boxworth	England	ENG	Cambr
+      GB      CB3    Madingley       England    ENG    Cambri		GB	CB3	Madingley	England	ENG	Cambr
+      GB      CB3    Harlton       England    ENG    Cambridg		GB	CB3	Harlton	England	ENG	Cambridgeshir
+      GB      CB3    Longstowe       England    ENG    Cambri		GB	CB3	Longstowe	England	ENG	Cambr
+      GB      CB3    Frog End       England    ENG    Cambrid		GB	CB3	Frog End	England	ENG	Cambr
+      GB      CB3    Great Eversden       England    ENG    C		GB	CB3	Great Eversden	England	ENG	Cambr
+      GB      CB3    Highfields       England    ENG    Cambr		GB	CB3	Highfields	England	ENG	Cambr
+      GB      CB3    Grantchester       England    ENG    Cam		GB	CB3	Grantchester	England	ENG	Cambr
+      GB      CB3    Caxton Gibbet       England    ENG    Ca		GB	CB3	Caxton Gibbet	England	ENG	Cambr
+      GB      CB3    Papworth Everard       England    ENG   		GB	CB3	Papworth Everard	England	ENG
+      GB      CB3    Toft       England    ENG    Cambridgesh		GB	CB3	Toft	England	ENG	Cambridgeshir
+      GB      CB3    Knapwell       England    ENG    Cambrid		GB	CB3	Knapwell	England	ENG	Cambr
+      GB      CB3    Little Eversden       England    ENG    		GB	CB3	Little Eversden	England	ENG	Cambr
+      GB      CB3    Papworth St Agnes       England    ENG  		GB	CB3	Papworth St Agnes	England	ENG
+      GB      CB3    Coton       England    ENG    Cambridges		GB	CB3	Coton	England	ENG	Cambridgeshir
+      GB      CB4    Milton       England    ENG    Cambridge		GB	CB4	Milton	England	ENG	Cambridgeshir
+      GB      CB4    Chesterton       England    ENG    Cambr		GB	CB4	Chesterton	England	ENG	Cambr
+      GB      CB4    Impington       England    ENG    Cambri		GB	CB4	Impington	England	ENG	Cambr
+      GB      CB4    Rampton       England    ENG    Cambridg		GB	CB4	Rampton	England	ENG	Cambridgeshir
+      GB      CB4    Longstanton       England    ENG    Camb		GB	CB4	Longstanton	England	ENG	Cambr
+      GB      CB4    Landbeach       England    ENG    Cambri		GB	CB4	Landbeach	England	ENG	Cambr
+      GB      CB4    Westwick       England    ENG    Cambrid		GB	CB4	Westwick	England	ENG	Cambr
+      GB      CB4    Cottenham       England    ENG    Cambri		GB	CB4	Cottenham	England	ENG	Cambr
+      GB      CB4    Over       England    ENG    Cambridgesh		GB	CB4	Over	England	ENG	Cambridgeshir
+      GB      CB4    Church End       England    ENG    Cambr		GB	CB4	Church End	England	ENG	Cambr
+      GB      CB4    Willingham       England    ENG    Cambr		GB	CB4	Willingham	England	ENG	Cambr
+      GB      CB4    Fen Drayton       England    ENG    Camb		GB	CB4	Fen Drayton	England	ENG	Cambr
+      GB      CB4    Boxworth End       England    ENG    Cam		GB	CB4	Boxworth End	England	ENG	Cambr
+      GB      CB4    Oakington       England    ENG    Cambri		GB	CB4	Oakington	England	ENG	Cambr
+      GB      CB4    Histon       England    ENG    Cambridge		GB	CB4	Histon	England	ENG	Cambridgeshir
+      GB      CB4    Swavesey       England    ENG    Cambrid		GB	CB4	Swavesey	England	ENG	Cambr
+      GB      CB5    Commercial End       England    ENG    C		GB	CB5	Commercial End	England	ENG	Cambr
+      GB      CB5    Chittering       England    ENG    Cambr		GB	CB5	Chittering	England	ENG	Cambr
+      GB      CB5    Reach       England    ENG    Cambridges		GB	CB5	Reach	England	ENG	Cambridgeshir
+      GB      CB5    Bottisham       England    ENG    Cambri		GB	CB5	Bottisham	England	ENG	Cambr
+      GB      CB5    Stow cum Quy       England    ENG    Cam		GB	CB5	Stow cum Quy	England	ENG	Cambr
+      GB      CB5    Fen Ditton       England    ENG    Cambr		GB	CB5	Fen Ditton	England	ENG	Cambr
+      GB      CB5    Horningsea       England    ENG    Cambr		GB	CB5	Horningsea	England	ENG	Cambr
+      GB      CB5    Lode       England    ENG    Cambridgesh		GB	CB5	Lode	England	ENG	Cambridgeshir
+      GB      CB5    Swaffham Prior       England    ENG    C		GB	CB5	Swaffham Prior	England	ENG	Cambr
+      GB      CB5    Waterbeach       England    ENG    Cambr		GB	CB5	Waterbeach	England	ENG	Cambr
+      GB      CB5    Swaffham Bulbeck       England    ENG   		GB	CB5	Swaffham Bulbeck	England	ENG
+      GB      CB5    Cambridge       England    ENG    Cambri		GB	CB5	Cambridge	England	ENG	Cambr
+      GB      CB5    Burwell       England    ENG    Cambridg		GB	CB5	Burwell	England	ENG	Cambridgeshir
+      GB      CB6    Little Downham       England    ENG    C		GB	CB6	Little Downham	England	ENG	Cambr
+      GB      CB6    Wardy Hill       England    ENG    Cambr		GB	CB6	Wardy Hill	England	ENG	Cambr
+      GB      CB6    Pymore       England    ENG    Cambridge		GB	CB6	Pymore	England	ENG	Cambridgeshir
+      GB      CB6    Little Thetford       England    ENG    		GB	CB6	Little Thetford	England	ENG	Cambr
+      GB      CB6    Apes Hall       England    ENG    Cambri		GB	CB6	Apes Hall	England	ENG	Cambr
+      GB      CB6    Sutton       England    ENG    Cambridge		GB	CB6	Sutton	England	ENG	Cambridgeshir
+      GB      CB6    Wentworth       England    ENG    Cambri		GB	CB6	Wentworth	England	ENG	Cambr
+      GB      CB6    Aldreth       England    ENG    Cambridg		GB	CB6	Aldreth	England	ENG	Cambridgeshir
+      GB      CB6    Littleport       England    ENG    Cambr		GB	CB6	Littleport	England	ENG	Cambr
+      GB      CB6    Wilburton       England    ENG    Cambri		GB	CB6	Wilburton	England	ENG	Cambr
+      GB      CB6    Witcham       England    ENG    Cambridg		GB	CB6	Witcham	England	ENG	Cambridgeshir
+      GB      CB6    Coveney       England    ENG    Cambridg		GB	CB6	Coveney	England	ENG	Cambridgeshir
+      GB      CB6    Haddenham       England    ENG    Cambri		GB	CB6	Haddenham	England	ENG	Cambr
+      GB      CB6    Witchford       England    ENG    Cambri		GB	CB6	Witchford	England	ENG	Cambr
+      GB      CB6    Chettisham       England    ENG    Cambr		GB	CB6	Chettisham	England	ENG	Cambr
+      GB      CB6    Mepal       England    ENG    Cambridges		GB	CB6	Mepal	England	ENG	Cambridgeshir
+      GB      CB6    Stretham       England    ENG    Cambrid		GB	CB6	Stretham	England	ENG	Cambr
+      GB      CB7    Wicken       England    ENG    Cambridge		GB	CB7	Wicken	England	ENG	Cambridgeshir
+      GB      CB7    Chippenham       England    ENG    Cambr		GB	CB7	Chippenham	England	ENG	Cambr
+      GB      CB7    Down Field       England    ENG    Cambr		GB	CB7	Down Field	England	ENG	Cambr
+      GB      CB7    Broad Hill       England    ENG    Cambr		GB	CB7	Broad Hill	England	ENG	Cambr
+      GB      CB7    Queen Adelaide       England    ENG    C		GB	CB7	Queen Adelaide	England	ENG	Cambr
+      GB      CB7    River Bank       England    ENG    Cambr		GB	CB7	River Bank	England	ENG	Cambr
+      GB      CB7    Upware       England    ENG    Cambridge		GB	CB7	Upware	England	ENG	Cambridgeshir
+      GB      CB7    Brandon Creek       England    ENG    Ca		GB	CB7	Brandon Creek	England	ENG	Cambr
+      GB      CB7    Brandon Bank       England    ENG    Cam		GB	CB7	Brandon Bank	England	ENG	Cambr
+      GB      CB7    Stuntney       England    ENG    Cambrid		GB	CB7	Stuntney	England	ENG	Cambr
+      GB      CB7    Fordham       England    ENG    Cambridg		GB	CB7	Fordham	England	ENG	Cambridgeshir
+      GB      CB7    Isleham       England    ENG    Cambridg		GB	CB7	Isleham	England	ENG	Cambridgeshir
+      GB      CB7    Soham       England    ENG    Cambridges		GB	CB7	Soham	England	ENG	Cambridgeshir
+      GB      CB7    Prickwillow       England    ENG    Camb		GB	CB7	Prickwillow	England	ENG	Cambr
+      GB      CB7    Ely       England    ENG    Cambridgeshi		GB	CB7	Ely	England	ENG	Cambridgeshir
+      GB      CB7    Barway       England    ENG    Cambridge		GB	CB7	Barway	England	ENG	Cambridgeshir
+      GB      CB8    Ashley       England    ENG    Cambridge		GB	CB8	Ashley	England	ENG	Cambridgeshir
+      GB      CB8    Westley Waterless       England    ENG  		GB	CB8	Westley Waterless	England	ENG
+      GB      CB8    Kennett       England    ENG    Cambridg		GB	CB8	Kennett	England	ENG	Cambridgeshir
+      GB      CB8    Dunstall Green       England    ENG    C		GB	CB8	Dunstall Green	England	ENG	Cambr
+      GB      CB8    Kirtling Green       England    ENG    C		GB	CB8	Kirtling Green	England	ENG	Cambr
+      GB      CB8    Saxon Street       England    ENG    Cam		GB	CB8	Saxon Street	England	ENG	Cambr
+      GB      CB8    Upend       England    ENG    Cambridges		GB	CB8	Upend	England	ENG	Cambridgeshir
+      GB      CB8    Lady's Green       England    ENG    Cam		GB	CB8	Lady's Green	England	ENG	Cambr
+      GB      CB8    Ditton Green       England    ENG    Cam		GB	CB8	Ditton Green	England	ENG	Cambr
+      GB      CB8    Landwade       England    ENG    Cambrid		GB	CB8	Landwade	England	ENG	Cambr
+      GB      CB8    Clopton Green       England    ENG    Ca		GB	CB8	Clopton Green	England	ENG	Cambr
+      GB      CB8    Carlton       England    ENG    Cambridg		GB	CB8	Carlton	England	ENG	Cambridgeshir
+      GB      CB8    Burrough End       England    ENG    Cam		GB	CB8	Burrough End	England	ENG	Cambr
+      GB      CB8    Thorns       England    ENG    Cambridge		GB	CB8	Thorns	England	ENG	Cambridgeshir
+      GB      CB8    Brinkley       England    ENG    Cambrid		GB	CB8	Brinkley	England	ENG	Cambr
+      GB      CB8    Stetchworth       England    ENG    Camb		GB	CB8	Stetchworth	England	ENG	Cambr
+      GB      CB8    Snailwell       England    ENG    Cambri		GB	CB8	Snailwell	England	ENG	Cambr
+      GB      CB8    Six Mile Bottom       England    ENG    		GB	CB8	Six Mile Bottom	England	ENG	Cambr
+      GB      CB8    Burrough Green       England    ENG    C		GB	CB8	Burrough Green	England	ENG	Cambr
+      GB      CB8    Kirtling       England    ENG    Cambrid		GB	CB8	Kirtling	England	ENG	Cambr
+      GB      CB8    Woodditton       England    ENG    Cambr		GB	CB8	Woodditton	England	ENG	Cambr
+      GB      CB8    Cheveley       England    ENG    Cambrid		GB	CB8	Cheveley	England	ENG	Cambr
+      GB      CB8    Dullingham       England    ENG    Cambr		GB	CB8	Dullingham	England	ENG	Cambr
+      GB      PE1    Newark       England    ENG    Cambridge		GB	PE1	Newark	England	ENG	Cambridgeshir
+      GB      PE1    New England       England    ENG    Camb		GB	PE1	New England	England	ENG	Cambr
+      GB      PE1    Peterborough       England    ENG    Cam		GB	PE1	Peterborough	England	ENG	Cambr
+      GB      PE13    Wisbech St Mary       England    ENG   		GB	PE13	Wisbech St Mary	England	ENG	Cambr
+      GB      PE13    Murrow       England    ENG    Cambridg		GB	PE13	Murrow	England	ENG	Cambridgeshir
+      GB      PE13    Tydd St Giles       England    ENG    C		GB	PE13	Tydd St Giles	England	ENG	Cambr
+      GB      PE13    Parson Drove       England    ENG    Ca		GB	PE13	Parson Drove	England	ENG	Cambr
+      GB      PE13    Wisbech       England    ENG    Cambrid		GB	PE13	Wisbech	England	ENG	Cambridgeshir
+      GB      PE13    New Walsoken       England    ENG    Ca		GB	PE13	New Walsoken	England	ENG	Cambr
+      GB      PE13    Gorefield       England    ENG    Cambr		GB	PE13	Gorefield	England	ENG	Cambr
+      GB      PE13    Fitton End       England    ENG    Camb		GB	PE13	Fitton End	England	ENG	Cambr
+      GB      PE13    Ring's End       England    ENG    Camb		GB	PE13	Ring's End	England	ENG	Cambr
+      GB      PE13    Tydd Gote       England    ENG    Cambr		GB	PE13	Tydd Gote	England	ENG	Cambr
+      GB      PE13    Church End       England    ENG    Camb		GB	PE13	Church End	England	ENG	Cambr
+      GB      PE13    Tholomas Drove       England    ENG    		GB	PE13	Tholomas Drove	England	ENG	Cambr
+      GB      PE13    Four Gotes       England    ENG    Camb		GB	PE13	Four Gotes	England	ENG	Cambr
+      GB      PE13    Newton       England    ENG    Cambridg		GB	PE13	Newton	England	ENG	Cambridgeshir
+      GB      PE13    Guyhirn       England    ENG    Cambrid		GB	PE13	Guyhirn	England	ENG	Cambridgeshir
+      GB      PE13    Leverington       England    ENG    Cam		GB	PE13	Leverington	England	ENG	Cambr
+      GB      PE14    Christchurch       England    ENG    Ca		GB	PE14	Christchurch	England	ENG	Cambr
+      GB      PE14    Coldham       England    ENG    Cambrid		GB	PE14	Coldham	England	ENG	Cambridgeshir
+      GB      PE14    Elm       England    ENG    Cambridgesh		GB	PE14	Elm	England	ENG	Cambridgeshir
+      GB      PE15    Manea       England    ENG    Cambridge		GB	PE15	Manea	England	ENG	Cambridgeshir
+      GB      PE15    Doddington       England    ENG    Camb		GB	PE15	Doddington	England	ENG	Cambr
+      GB      PE15    Wimblington       England    ENG    Cam		GB	PE15	Wimblington	England	ENG	Cambr
+      GB      PE15    March       England    ENG    Cambridge		GB	PE15	March	England	ENG	Cambridgeshir
+      GB      PE15    Purls Bridge       England    ENG    Ca		GB	PE15	Purls Bridge	England	ENG	Cambr
+      GB      PE15    Benwick       England    ENG    Cambrid		GB	PE15	Benwick	England	ENG	Cambridgeshir
+      GB      PE15    Town End       England    ENG    Cambri		GB	PE15	Town End	England	ENG	Cambr
+      GB      PE15    Hobbs Lots Bridge       England    ENG 		GB	PE15	Hobbs Lots Bridge	England	ENG
+      GB      PE15    Westry       England    ENG    Cambridg		GB	PE15	Westry	England	ENG	Cambridgeshir
+      GB      PE16    Chatteris       England    ENG    Cambr		GB	PE16	Chatteris	England	ENG	Cambr
+      GB      PE16    Horseway       England    ENG    Cambri		GB	PE16	Horseway	England	ENG	Cambr
+      GB      PE16    Welches Dam       England    ENG    Cam		GB	PE16	Welches Dam	England	ENG	Cambr
+      GB      PE19    Great Paxton       England    ENG    Ca		GB	PE19	Great Paxton	England	ENG	Cambr
+      GB      PE19    Croxton       England    ENG    Cambrid		GB	PE19	Croxton	England	ENG	Cambridgeshir
+      GB      PE19    Staughton Highway       England    ENG 		GB	PE19	Staughton Highway	England	ENG
+      GB      PE19    Staughton Green       England    ENG   		GB	PE19	Staughton Green	England	ENG	Cambr
+      GB      PE19    Toseland       England    ENG    Cambri		GB	PE19	Toseland	England	ENG	Cambr
+      GB      PE19    Eaton Ford       England    ENG    Camb		GB	PE19	Eaton Ford	England	ENG	Cambr
+      GB      PE19    Eynesbury       England    ENG    Cambr		GB	PE19	Eynesbury	England	ENG	Cambr
+      GB      PE19    Duloe       England    ENG    Cambridge		GB	PE19	Duloe	England	ENG	Cambridgeshir
+      GB      PE19    Eltisley       England    ENG    Cambri		GB	PE19	Eltisley	England	ENG	Cambr
+      GB      PE19    St Neots       England    ENG    Cambri		GB	PE19	St Neots	England	ENG	Cambr
+      GB      PE19    Great Staughton       England    ENG   		GB	PE19	Great Staughton	England	ENG	Cambr
+      GB      PE19    Eaton Socon       England    ENG    Cam		GB	PE19	Eaton Socon	England	ENG	Cambr
+      GB      PE19    Hail Weston       England    ENG    Cam		GB	PE19	Hail Weston	England	ENG	Cambr
+      GB      PE19    Abbotsley       England    ENG    Cambr		GB	PE19	Abbotsley	England	ENG	Cambr
+      GB      PE19    Little Paxton       England    ENG    C		GB	PE19	Little Paxton	England	ENG	Cambr
+      GB      PE19    Yelling       England    ENG    Cambrid		GB	PE19	Yelling	England	ENG	Cambridgeshir
+      GB      PE2    Orton Waterville       England    ENG   		GB	PE2	Orton Waterville	England	ENG
+      GB      PE2    Alwalton       England    ENG    Cambrid		GB	PE2	Alwalton	England	ENG	Cambr
+      GB      PE2    Orton Longueville       England    ENG  		GB	PE2	Orton Longueville	England	ENG
+      GB      PE2    Old Fletton       England    ENG    Camb		GB	PE2	Old Fletton	England	ENG	Cambr
+      GB      PE2    Woodston       England    ENG    Cambrid		GB	PE2	Woodston	England	ENG	Cambr
+      GB      PE2    Stanground       England    ENG    Cambr		GB	PE2	Stanground	England	ENG	Cambr
+      GB      PE26    Huntingdon       England    ENG    Camb		GB	PE26	Huntingdon	England	ENG	Cambr
+      GB      PE27    St. Ives       England    ENG    Cambri		GB	PE27	St. Ives	England	ENG	Cambr
+      GB      PE28    Huntingdon       England    ENG    Camb		GB	PE28	Huntingdon	England	ENG	Cambr
+      GB      PE29    Huntingdon       England    ENG    Camb		GB	PE29	Huntingdon	England	ENG	Cambr
+      GB      PE3    Longthorpe       England    ENG    Cambr		GB	PE3	Longthorpe	England	ENG	Cambr
+      GB      PE4    Werrington       England    ENG    Cambr		GB	PE4	Werrington	England	ENG	Cambr
+      GB      PE4    Walton       England    ENG    Cambridge		GB	PE4	Walton	England	ENG	Cambridgeshir
+      GB      PE5    Ailsworth       England    ENG    Cambri		GB	PE5	Ailsworth	England	ENG	Cambr
+      GB      PE5    Sutton       England    ENG    Cambridge		GB	PE5	Sutton	England	ENG	Cambridgeshir
+      GB      PE5    Upton       England    ENG    Cambridges		GB	PE5	Upton	England	ENG	Cambridgeshir
+      GB      PE5    Castor       England    ENG    Cambridge		GB	PE5	Castor	England	ENG	Cambridgeshir
+      GB      PE6    Peakirk       England    ENG    Cambridg		GB	PE6	Peakirk	England	ENG	Cambridgeshir
+      GB      PE6    Etton       England    ENG    Cambridges		GB	PE6	Etton	England	ENG	Cambridgeshir
+      GB      PE6    Deeping Gate       England    ENG    Cam		GB	PE6	Deeping Gate	England	ENG	Cambr
+      GB      PE6    Glinton       England    ENG    Cambridg		GB	PE6	Glinton	England	ENG	Cambridgeshir
+      GB      PE6    Newborough       England    ENG    Cambr		GB	PE6	Newborough	England	ENG	Cambr
+      GB      PE6    Helpston       England    ENG    Cambrid		GB	PE6	Helpston	England	ENG	Cambr
+      GB      PE6    Eye       England    ENG    Cambridgeshi		GB	PE6	Eye	England	ENG	Cambridgeshir
+      GB      PE6    Northborough       England    ENG    Cam		GB	PE6	Northborough	England	ENG	Cambr
+      GB      PE6    Marholm       England    ENG    Cambridg		GB	PE6	Marholm	England	ENG	Cambridgeshir
+      GB      PE6    Maxey       England    ENG    Cambridges		GB	PE6	Maxey	England	ENG	Cambridgeshir
+      GB      PE6    Thorney       England    ENG    Cambridg		GB	PE6	Thorney	England	ENG	Cambridgeshir
+      GB      PE7    Holme       England    ENG    Cambridges		GB	PE7	Holme	England	ENG	Cambridgeshir
+      GB      PE7    Haddon       England    ENG    Cambridge		GB	PE7	Haddon	England	ENG	Cambridgeshir
+      GB      PE7    Farcet       England    ENG    Cambridge		GB	PE7	Farcet	England	ENG	Cambridgeshir
+      GB      PE7    Stilton       England    ENG    Cambridg		GB	PE7	Stilton	England	ENG	Cambridgeshir
+      GB      PE7    Yaxley       England    ENG    Cambridge		GB	PE7	Yaxley	England	ENG	Cambridgeshir
+      GB      PE7    Morborne       England    ENG    Cambrid		GB	PE7	Morborne	England	ENG	Cambr
+      GB      PE7    Conington       England    ENG    Cambri		GB	PE7	Conington	England	ENG	Cambr
+      GB      PE7    Caldecote       England    ENG    Cambri		GB	PE7	Caldecote	England	ENG	Cambr
+      GB      PE7    Denton       England    ENG    Cambridge		GB	PE7	Denton	England	ENG	Cambridgeshir
+      GB      PE7    Eldernell       England    ENG    Cambri		GB	PE7	Eldernell	England	ENG	Cambr
+      GB      PE7    Eastrea       England    ENG    Cambridg		GB	PE7	Eastrea	England	ENG	Cambridgeshir
+      GB      PE7    Coates       England    ENG    Cambridge		GB	PE7	Coates	England	ENG	Cambridgeshir
+      GB      PE7    Whittlesey       England    ENG    Cambr		GB	PE7	Whittlesey	England	ENG	Cambr
+      GB      PE7    Chesterton       England    ENG    Cambr		GB	PE7	Chesterton	England	ENG	Cambr
+      GB      PE7    Folksworth       England    ENG    Cambr		GB	PE7	Folksworth	England	ENG	Cambr
+      GB      PE7    Norman Cross       England    ENG    Cam		GB	PE7	Norman Cross	England	ENG	Cambr
+      GB      PE8    Wittering       England    ENG    Cambri		GB	PE8	Wittering	England	ENG	Cambr
+      GB      PE8    Thornhaugh       England    ENG    Cambr		GB	PE8	Thornhaugh	England	ENG	Cambr
+      GB      PE8    Elton       England    ENG    Cambridges		GB	PE8	Elton	England	ENG	Cambridgeshir
+      GB      PE8    Water Newton       England    ENG    Cam		GB	PE8	Water Newton	England	ENG	Cambr
+      GB      PE9    Bainton       England    ENG    Cambridg		GB	PE9	Bainton	England	ENG	Cambridgeshir
+      GB      PE9    Southorpe       England    ENG    Cambri		GB	PE9	Southorpe	England	ENG	Cambr
+      GB      PE9    Barnack       England    ENG    Cambridg		GB	PE9	Barnack	England	ENG	Cambridgeshir
+      GB      PE9    Ufford       England    ENG    Cambridge		GB	PE9	Ufford	England	ENG	Cambridgeshir
+      GB      PE99    City of Peterborough       England    E		GB	PE99	City of Peterborough	England	ENG
+      GB      SG19    Little Gransden       England    ENG   		GB	SG19	Little Gransden	England	ENG	Cambr
+      GB      SG19    Waresley       England    ENG    Cambri		GB	SG19	Waresley	England	ENG	Cambr
+      GB      SG19    East Hatley       England    ENG    Cam		GB	SG19	East Hatley	England	ENG	Cambr
+      GB      SG19    Gamlingay       England    ENG    Cambr		GB	SG19	Gamlingay	England	ENG	Cambr
+      GB      SG19    Great Gransden       England    ENG    		GB	SG19	Great Gransden	England	ENG	Cambr
+      GB      SG19    Hatley St George       England    ENG  		GB	SG19	Hatley St George	England	ENG
+      GB      SG8    Guilden Morden       England    ENG    C		GB	SG8	Guilden Morden	England	ENG	Cambr
+      GB      SG8    Heydon       England    ENG    Cambridge		GB	SG8	Heydon	England	ENG	Cambridgeshir
+      GB      SG8    Steeple Morden       England    ENG    C		GB	SG8	Steeple Morden	England	ENG	Cambr
+      GB      SG8    Fowlmere       England    ENG    Cambrid		GB	SG8	Fowlmere	England	ENG	Cambr
+      GB      SG8    Orwell       England    ENG    Cambridge		GB	SG8	Orwell	England	ENG	Cambridgeshir
+      GB      SG8    Litlington       England    ENG    Cambr		GB	SG8	Litlington	England	ENG	Cambr
+      GB      SG8    Shepreth       England    ENG    Cambrid		GB	SG8	Shepreth	England	ENG	Cambr
+      GB      SG8    Thriplow       England    ENG    Cambrid		GB	SG8	Thriplow	England	ENG	Cambr
+      GB      SG8    Arrington       England    ENG    Cambri		GB	SG8	Arrington	England	ENG	Cambr
+      GB      SG8    Whaddon       England    ENG    Cambridg		GB	SG8	Whaddon	England	ENG	Cambridgeshir
+      GB      SG8    Kneesworth       England    ENG    Cambr		GB	SG8	Kneesworth	England	ENG	Cambr
+      GB      SG8    Bridgefoot       England    ENG    Cambr		GB	SG8	Bridgefoot	England	ENG	Cambr
+      GB      SG8    Little Chishill       England    ENG    		GB	SG8	Little Chishill	England	ENG	Cambr
+      GB      SG8    Tadlow       England    ENG    Cambridge		GB	SG8	Tadlow	England	ENG	Cambridgeshir
+      GB      SG8    Chrishall Grange       England    ENG   		GB	SG8	Chrishall Grange	England	ENG
+      GB      SG8    New Wimpole       England    ENG    Camb		GB	SG8	New Wimpole	England	ENG	Cambr
+      GB      SG8    Whaddon Gap       England    ENG    Camb		GB	SG8	Whaddon Gap	England	ENG	Cambr
+      GB      SG8    Great Chishill       England    ENG    C		GB	SG8	Great Chishill	England	ENG	Cambr
+      GB      SG8    Abington Pigotts       England    ENG   		GB	SG8	Abington Pigotts	England	ENG
+      GB      SG8    Flint Cross       England    ENG    Camb		GB	SG8	Flint Cross	England	ENG	Cambr
+      GB      SG8    Melbourn       England    ENG    Cambrid		GB	SG8	Melbourn	England	ENG	Cambr
+      GB      SG8    Wendy       England    ENG    Cambridges		GB	SG8	Wendy	England	ENG	Cambridgeshir
+      GB      SG8    Shingay       England    ENG    Cambridg		GB	SG8	Shingay	England	ENG	Cambridgeshir
+      GB      SG8    Croydon       England    ENG    Cambridg		GB	SG8	Croydon	England	ENG	Cambridgeshir
+      GB      SG8    Bassingbourn       England    ENG    Cam		GB	SG8	Bassingbourn	England	ENG	Cambr
+      GB      SG8    Meldreth       England    ENG    Cambrid		GB	SG8	Meldreth	England	ENG	Cambr
+distance BS37R AB44						distance BS37R AB44
+    GB    AB44    Newtown    Scotland    SCT    Aberdeenshire		GB	AB44	Newtown	Scotland	SCT	Aberd
+Sorry, postal code BS37R was not found.				Sorry, postal code BS37R was not found.
+distance WD6X BN2<						distance WD6X BN2<
+Sorry, postal code WD6X was not found.				Sorry, postal code WD6X was not found.
+Sorry, postal code BN2< was not found.				Sorry, postal code BN2< was not found.

@@ -1,0 +1,54 @@
+filename US.txt
+distance 24437; 70449Z
+Sorry, postal code 24437; was not found.
+Sorry, postal code 70449Z was not found.
+distance 54935 03285
+	US	03285	Thornton	New Hampshire	NH	Grafton	009			43.905000	-71.647000		4
+	US	54935	Fond Du Lac	Wisconsin	WI	Fond du Lac	039			43.774200	-88.435200		4
+	Distance: 1344.219343 km
+county CastroV
+Sorry, county CastroV was not found.
+postal 35673G
+Sorry, postal code 35673G was not found.
+distance 47426 097307
+	US	47426	Clear Creek	Indiana	IN	Monroe	105			39.173200	-86.501500		4
+Sorry, postal code 097307 was not found.
+place Lewisto
+	US	96052	Lewiston	California	CA	Trinity	105			40.746000	-122.842600		4
+	US	83501	Lewiston	Idaho	ID	Nez Perce	069			46.364600	-116.860900		4
+	US	61542	Lewistown	Illinois	IL	Fulton	057			40.383000	-90.156300		4
+	US	04240	Lewiston	Maine	ME	Androscoggin	001			44.098500	-70.191600		4
+	US	04241	Lewiston	Maine	ME	Androscoggin	001			44.197000	-70.239500		4
+	US	04243	Lewiston	Maine	ME	Androscoggin	001			44.197000	-70.239500		4
+	US	49756	Lewiston	Michigan	MI	Montmorency	119			44.853800	-84.297300		4
+	US	55952	Lewiston	Minnesota	MN	Winona	169			43.970200	-91.866200		4
+	US	63452	Lewistown	Missouri	MO	Lewis	111			40.086700	-91.815700		4
+	US	59457	Lewistown	Montana	MT	Fergus	027			47.056300	-109.420300		4
+	US	27849	Lewiston Woodville	North Carolina	NC	Bertie	015			36.093300	-77.143900		4
+	US	68380	Lewiston	Nebraska	NE	Pawnee	133			40.230900	-96.404900		4
+	US	14092	Lewiston	New York	NY	Niagara	063			43.172200	-79.021500		4
+	US	43333	Lewistown	Ohio	OH	Logan	091			40.427700	-83.920900		4
+	US	17044	Lewistown	Pennsylvania	PA	Mifflin	087			40.599400	-77.575600		4
+	US	84320	Lewiston	Utah	UT	Cache	005			41.970100	-111.876800		4
+county Morro
+	US	43315	Cardington	Ohio	OH	Morrow	117			40.506600	-82.933700		4
+	US	43317	Chesterville	Ohio	OH	Morrow	117			40.478900	-82.682800		4
+	US	43320	Edison	Ohio	OH	Morrow	117			40.590500	-82.902300		4
+	US	43321	Fulton	Ohio	OH	Morrow	117			40.462600	-82.828800		4
+	US	43325	Iberia	Ohio	OH	Morrow	117			40.670300	-82.843500		4
+	US	43334	Marengo	Ohio	OH	Morrow	117			40.389500	-82.812100		4
+	US	43338	Mount Gilead	Ohio	OH	Morrow	117			40.538400	-82.806200		4
+	US	43349	Shauck	Ohio	OH	Morrow	117			40.614200	-82.661900		4
+	US	43350	Sparta	Ohio	OH	Morrow	117			40.528900	-82.822900		4
+	US	97818	Boardman	Oregon	OR	Morrow	049			45.827200	-119.720600		4
+	US	97836	Heppner	Oregon	OR	Morrow	049			45.348600	-119.536900		4
+	US	97839	Lexington	Oregon	OR	Morrow	049			45.426400	-119.746400		4
+	US	97843	Ione	Oregon	OR	Morrow	049			45.540300	-119.769000		4
+	US	97844	Irrigon	Oregon	OR	Morrow	049			45.887700	-119.507000		4
+distance 58455U 71841
+	US	71841	Gillham	Arkansas	AR	Sevier	133			34.157000	-94.316500		4
+Sorry, postal code 58455U was not found.
+postal 75241
+	US	75241	Dallas	Texas	TX	Dallas	113			32.672200	-96.777400		4
+place CalhounX
+Sorry, place name CalhounX was not found.

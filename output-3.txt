@@ -1,0 +1,271 @@
+filename CA.txt
+postal R3Bi
+Sorry, postal code R3Bi was not found.
+distance R3Me T0A
+	CA	T0A	Eastern Alberta (St. Paul)	Alberta	AB					54.766000	-111.717400		6
+Sorry, postal code R3Me was not found.
+place Fabrevill
+	CA	H7P	Fabreville	Quebec	QC					45.578000	-73.800400		1
+distance S6K$ K1LY
+Sorry, postal code S6K$ was not found.
+Sorry, postal code K1LY was not found.
+distance T5B V8Ri
+	CA	T5B	Edmonton (East North Central / West Beverly)	Alberta	AB	Edmonton				53.735300	-113.336900		6
+Sorry, postal code V8Ri was not found.
+postal N3P
+	CA	N3P	Brantford Northeast	Ontario	ON	Brant	5907982			43.181800	-80.236700		1
+distance H4B L9A
+	CA	L9A	Hamilton (Crerar / Bruleville / Hill Park / Inch Park / Centremount / Balfour / Greeningdon / Jerome)	Ontario	ON	Hamilton	5969784			43.227100	-79.871000		1
+	CA	H4B	Notre-Dame-de-Grâce Southwest	Quebec	QC	Notre-Dame-de-Grâce				45.460400	-73.630300		1
+	Distance: 554.721884 km
+county Maple Ridge
+	CA	V2W	Maple Ridge East	British Columbia	BC	Maple Ridge 				49.206800	-122.485100		1
+	CA	V2X	Maple Ridge West	British Columbia	BC	Maple Ridge 				49.219600	-122.616400		1
+county g
+	CA	T1H	Lethbridge North	Alberta	AB	Lethbridge				49.700000	-112.818600		4
+	CA	T1J	Lethbridge West and Central	Alberta	AB	Lethbridge				49.658100	-112.748400		1
+	CA	T1K	Lethbridge Southeast	Alberta	AB	Lethbridge				49.651100	-112.835100		1
+	CA	T1Y	Calgary (Rundle / Whitehorn / Monterey Park)	Alberta	AB	Calgary				51.082300	-113.957800		1
+	CA	T2A	Calgary (Penbrooke Meadows / Marlborough)	Alberta	AB	Calgary				51.049400	-113.956400		6
+	CA	T2B	Calgary (Forest Lawn / Dover / Erin Woods)	Alberta	AB	Calgary				51.020900	-113.981000		6
+	CA	T2C	Calgary (Lynnwood Ridge / Ogden / Foothills Industrial / Great Plains)	Alberta	AB	Calgary				50.987000	-113.963400		6
+	CA	T2E	Calgary (Bridgeland / Greenview / Zoo / YYC)	Alberta	AB	Calgary				51.087600	-114.021400		6
+	CA	T2G	Calgary (Inglewood / Burnsland / Chinatown / East Victoria Park / Saddledome)	Alberta	AB	Calgary				51.027200	-114.034900		6
+	CA	T2H	Calgary (Highfield / Burns Industrial)	Alberta	AB	Calgary				50.989400	-114.052000		6
+	CA	T2J	Calgary (Queensland Downs / Lake Bonavista / Willow Park / Acadia)	Alberta	AB	Calgary				50.847600	-114.195800		6
+	CA	T2K	Calgary (Thornecliffe / Tuxedo)	Alberta	AB	Calgary				51.111100	-114.047700		6
+	CA	T2L	Calgary (Brentwood / Collingwood / Nose Hill)	Alberta	AB	Calgary				51.104700	-114.114800		6
+	CA	T2M	Calgary (Mount Pleasant / Capitol Hill / Banff Trail)	Alberta	AB	Calgary				51.133000	-113.856000		6
+	CA	T2N	Calgary (Kensington / Westmont / Parkdale / University)	Alberta	AB	Calgary				51.062100	-114.115900		6
+	CA	T2P	Calgary (City Centre / Calgary Tower)	Alberta	AB	Calgary				51.070800	-113.693100		6
+	CA	T2R	Calgary (Connaught / West Victoria Park)	Alberta	AB	Calgary				51.041200	-114.076200		6
+	CA	T2S	Calgary (Elbow Park / Britannia / Parkhill / Mission)	Alberta	AB	Calgary				51.023300	-114.071000		6
+	CA	T2T	Calgary South (Altadore / Bankview / Richmond)	Alberta	AB	Calgary				51.024200	-114.100400		6
+	CA	T2V	Calgary (Oak Ridge / Haysboro / Kingsland / Windsor Park)	Alberta	AB	Calgary				50.981900	-114.100400		6
+	CA	T2W	Calgary (Braeside / Woodbine)	Alberta	AB	Calgary				50.951400	-114.359100		6
+	CA	T2X	Calgary (Midnapore / Sundance)	Alberta	AB	Calgary				50.883700	-114.032600		6
+	CA	T2Y	Calgary (Millrise / Somerset / Bridlewood / Evergreen)	Alberta	AB	Calgary				50.909300	-114.102800		6
+	CA	T2Z	Calgary (Douglas Glen / McKenzie Lake / Copperfield / East Shepard)	Alberta	AB	Calgary				50.927800	-113.968200		6
+	CA	T3A	Calgary (Dalhousie / Edgemont / Hamptons / Hidden Valley)	Alberta	AB	Calgary				51.126400	-114.141900		1
+	CA	T3B	Calgary (Montgomery / Bowness / Silver Springs / Greenwood)	Alberta	AB	Calgary				51.091500	-114.207300		1
+	CA	T3C	Calgary (Rosscarrock / Wildwood / Shaganappi / Sunalta)	Alberta	AB	Calgary				51.049700	-114.139400		1
+	CA	T3E	Calgary (Lakeview / Glendale / Killarney / Glamorgan)	Alberta	AB	Calgary				50.989900	-114.157400		1
+	CA	T3G	Calgary (Hawkwood / Arbour Lake / Royal Oak / Rocky Ridge)	Alberta	AB	Calgary				51.138700	-114.201500		1
+	CA	T3H	Calgary (Discovery Ridge / Signal Hill / Aspen Woods / Patterson / Cougar Ridge)	Alberta	AB	Calgary				51.041900	-114.200000		1
+	CA	T3J	Calgary (Martindale / Taradale / Falconridge / Saddle Ridge)	Alberta	AB	Calgary				51.118800	-113.947100		1
+	CA	T3K	Calgary (Sandstone / Harvest Hills / Coventry Hills / Panorama Hills / Beddington)	Alberta	AB	Calgary				51.156300	-114.057200		1
+	CA	T3L	Calgary (Tuscany / Scenic Acres)	Alberta	AB	Calgary				51.146700	-114.313300		1
+	CA	T3M	Calgary (Cranston)	Alberta	AB	Calgary				50.879600	-113.955500		1
+	CA	T3N	Calgary Northeast	Alberta	AB	Calgary				51.162600	-113.953700		1
+	CA	T3P	Calgary (Symons Valley)	Alberta	AB	Calgary				51.207400	-114.134800		1
+	CA	T3R	Calgary Northwest	Alberta	AB	Calgary				51.202100	-114.245300		1
+	CA	T3S	Calgary	Alberta	AB	Calgary				50.915300	-113.893200		4
+	CA	V2K	Prince George North	British Columbia	BC	Prince George 				54.050800	-122.922100		4
+	CA	V2L	Prince George East Central	British Columbia	BC	Prince George 				53.907800	-122.747300		1
+	CA	V2M	Prince George West Central	British Columbia	BC	Prince George 				53.912700	-122.870800		1
+	CA	V2N	Prince George South	British Columbia	BC	Prince George 				53.640800	-122.954000		1
+	CA	V2W	Maple Ridge East	British Columbia	BC	Maple Ridge 				49.206800	-122.485100		1
+	CA	V2X	Maple Ridge West	British Columbia	BC	Maple Ridge 				49.219600	-122.616400		1
+	CA	V2Y	Langley Township Northwest	British Columbia	BC	Langley Township 				49.128500	-122.623600		1
+	CA	V2Z	Langley Township Southwest	British Columbia	BC	Langley Township 				49.048300	-122.599700		1
+	CA	R2C	Winnipeg (Transcona)	Manitoba	MB	Winnipeg				49.924700	-96.956300		6
+	CA	R2G	Winnipeg (River East North)	Manitoba	MB	Winnipeg				49.941300	-97.057100		6
+	CA	R2H	Winnipeg (St. Boniface NW)	Manitoba	MB	Winnipeg				49.884600	-97.118600		6
+	CA	R2J	Winnipeg (St. Boniface NE)	Manitoba	MB	Winnipeg				49.866500	-97.063300		6
+	CA	R2K	Winnipeg (River East Central)	Manitoba	MB	Winnipeg				49.920300	-97.083000		6
+	CA	R2L	Winnipeg (River East South)	Manitoba	MB	Winnipeg				49.907500	-97.099600		6
+	CA	R2M	Winnipeg (St. Vital North)	Manitoba	MB	Winnipeg				49.839600	-97.114700		6
+	CA	R2N	Winnipeg (St. Vital SW)	Manitoba	MB	Winnipeg				49.783800	-97.097300		6
+	CA	R2P	Winnipeg (Seven Oaks West)	Manitoba	MB	Winnipeg				49.969600	-97.155400		6
+	CA	R2R	Winnipeg (Inkster West)	Manitoba	MB	Winnipeg				49.937700	-97.216200		6
+	CA	R2V	Winnipeg (Seven Oaks East)	Manitoba	MB	Winnipeg				49.954800	-97.111200		6
+	CA	R2W	Winnipeg (Point Douglas East)	Manitoba	MB	Winnipeg				49.919500	-97.135400		6
+	CA	R2X	Winnipeg (Point Douglas West / Inkster East)	Manitoba	MB	Winnipeg				49.932200	-97.173300		6
+	CA	R2Y	Winnipeg (St. James-Assiniboia NW)	Manitoba	MB	Winnipeg				49.907300	-97.294500		6
+	CA	R3A	Winnipeg (Centennial)	Manitoba	MB	Winnipeg				49.903800	-97.148900		6
+	CA	R3B	Winnipeg (Chinatown / Civic Centre / Exchange District)	Manitoba	MB	Winnipeg				49.898000	-97.140100		6
+	CA	R3C	Winnipeg (Broadway / The Forks / Portage and Main) Manitoba Provincial Government	Manitoba	MB	Winnipeg				50.011000	-97.218400		6
+	CA	R3E	Winnipeg (Sargent Park / Daniel McIntyre / Inkster SE)	Manitoba	MB	Winnipeg				49.908100	-97.177900		6
+	CA	R3G	Winnipeg (Minto / St. Mathews / Wolseley)	Manitoba	MB	Winnipeg				49.887600	-97.180700		6
+	CA	R3H	Winnipeg (St. James-Assiniboia NE / YWG)	Manitoba	MB	Winnipeg				49.903300	-97.207400		6
+	CA	R3J	Winnipeg (St. James-Assiniboia SE)	Manitoba	MB	Winnipeg				49.896600	-97.240400		6
+	CA	R3K	Winnipeg (St. James-Assiniboia SW)	Manitoba	MB	Winnipeg				49.873400	-97.307000		6
+	CA	R3L	Winnipeg (River Heights East)	Manitoba	MB	Winnipeg				49.867000	-97.135600		6
+	CA	R3M	Winnipeg (River Heights Central)	Manitoba	MB	Winnipeg				49.862500	-97.166500		6
+	CA	R3N	Winnipeg (River Heights West)	Manitoba	MB	Winnipeg				49.862900	-97.195900		6
+	CA	R3P	Winnipeg (Fort Garry NW / Tuxedo)	Manitoba	MB	Winnipeg				49.842500	-97.218200		6
+	CA	R3R	Winnipeg (Assiniboine South / Betsworth)	Manitoba	MB	Winnipeg				49.854600	-97.287400		6
+	CA	R3S	Winnipeg (Wilkes South)	Manitoba	MB	Winnipeg				49.825500	-97.293400		6
+	CA	R3T	Winnipeg (Fort Garry NE / University of Manitoba)	Manitoba	MB	Winnipeg				49.814300	-97.153100		6
+	CA	R3V	Winnipeg (Fort Garry South)	Manitoba	MB	Winnipeg				49.746200	-97.174500		6
+	CA	R3W	Winnipeg (Grassie / Pequis)	Manitoba	MB	Winnipeg				49.914100	-97.040100		6
+	CA	R3X	Winnipeg (St. Boniface South / St. Vital SE)	Manitoba	MB	Winnipeg				49.820900	-97.032200		6
+	CA	R3Y	Winnipeg (Fort Garry West)	Manitoba	MB	Winnipeg				49.788500	-97.214700		6
+	CA	R4H	Headingley East	Manitoba	MB	Headingley				49.876100	-97.381200		6
+	CA	R4J	Headingley West	Manitoba	MB	Headingley				49.846700	-97.431900		6
+	CA	P0R	Algoma Southwest (Blind River)	Ontario	ON	Algoma	5883638			46.598400	-83.038500		6
+	CA	K0L	Peterborough County and North Hastings County (Lakefield)	Ontario	ON	Peterborough County	6101646			44.776700	-77.968700		6
+	CA	K7K	Kingston (SW Pittsburgh Township)	Ontario	ON	Kingston				44.256900	-76.471700		1
+	CA	K7L	Kingston (Downtown)	Ontario	ON	Kingston				44.295500	-76.428000		1
+	CA	K7M	Kingston (Reddendale / Cataraqui / Collins Bay)	Ontario	ON	Kingston				44.241100	-76.578800		1
+	CA	K7P	Kingston (Westbrook / Cataraqui Woods / Cedarwood)	Ontario	ON	Kingston				44.281400	-76.611100		1
+	CA	K9H	Peterborough North	Ontario	ON	Peterborough				44.324500	-78.318400		1
+	CA	K9J	Peterborough South	Ontario	ON	Peterborough				44.310400	-78.239600		5
+	CA	K9K	Peterborough (Fairbairn Meadows / Jackson Heights)	Ontario	ON	Peterborough				44.313800	-78.360600		5
+	CA	K9L	Peterborough (Terra View Heights / Woodland Acres / Donwood)	Ontario	ON	Peterborough				44.355200	-78.319900		5
+	CA	L1V	Pickering Southwest	Ontario	ON	Pickering				43.860500	-79.161800		5
+	CA	L1W	Pickering South	Ontario	ON	Pickering				43.819700	-79.080300		1
+	CA	L1X	Pickering Central	Ontario	ON	Pickering				43.855800	-79.097200		5
+	CA	L1Y	Pickering North	Ontario	ON	Pickering				43.955500	-79.119400		4
+	CA	L2E	Niagara Falls Central	Ontario	ON	Niagara Falls 				43.053700	-79.101800		1
+	CA	L2G	Niagara Falls Southeast	Ontario	ON	Niagara Falls 				43.069600	-79.081800		1
+	CA	L2H	Niagara Falls West	Ontario	ON	Niagara Falls 				43.100900	-79.137900		1
+	CA	L2J	Niagara Falls North	Ontario	ON	Niagara Falls 				43.129600	-79.103400		4
+	CA	L4H	Woodbridge North	Ontario	ON	Woodbridge				43.843200	-79.564400		5
+	CA	L4L	Woodbridge South	Ontario	ON	Woodbridge				43.806400	-79.599500		1
+	CA	L4T	Mississauga (Malton)	Ontario	ON	Mississauga				43.713900	-79.643400		1
+	CA	L4V	Mississauga (Wildwood)	Ontario	ON	Mississauga				43.693500	-79.606900		1
+	CA	L4W	Mississauga (Matheson / East Rathwood)	Ontario	ON	Mississauga				43.641300	-79.629600		1
+	CA	L4X	Mississauga (East Applewood / East Dixie / NE Lakeview)	Ontario	ON	Mississauga				43.617800	-79.578600		1
+	CA	L4Y	Mississauga (West Applewood / West Dixie / NW Lakeview)	Ontario	ON	Mississauga				43.602800	-79.592900		1
+	CA	L4Z	Mississauga (West Rathwood / East Hurontario / SE Gateway)	Ontario	ON	Mississauga				43.619200	-79.653800		1
+	CA	L5A	Mississauga (Mississauga Valleys / East Cooksville)	Ontario	ON	Mississauga				43.588300	-79.609100		6
+	CA	L5B	Mississauga (West Cooksville / Fairview / City Centre / East Creditview)	Ontario	ON	Mississauga				43.577100	-79.630600		6
+	CA	L5C	Mississauga (West Creditview / Mavis / Erindale)	Ontario	ON	Mississauga				43.562400	-79.650400		6
+	CA	L5E	Mississauga (Central Lakeview)	Ontario	ON	Mississauga				43.583600	-79.561000		6
+	CA	L5G	Mississauga (SW Lakeview / Mineola / East Port Credit)	Ontario	ON	Mississauga				43.564700	-79.585200		6
+	CA	L5H	Mississauga (West Port Credit / Lorne Park / East Sheridan)	Ontario	ON	Mississauga				43.541900	-79.616400		6
+	CA	L5J	Mississauga (Clarkson / Southdown)	Ontario	ON	Mississauga				43.510200	-79.629600		6
+	CA	L5K	Mississauga (West Sheridan)	Ontario	ON	Mississauga				43.527200	-79.661700		6
+	CA	L5L	Mississauga (Erin Mills / Western Business Park)	Ontario	ON	Mississauga				43.537300	-79.690300		6
+	CA	L5M	Mississauga (Churchill Meadows / Central Erin Mills / South Streetsville)	Ontario	ON	Mississauga				43.563700	-79.720200		6
+	CA	L5N	Mississauga (Lisgar / Meadowvale)	Ontario	ON	Mississauga				43.592400	-79.761100		6
+	CA	L5P	Mississauga (YYZ)	Ontario	ON	Mississauga				43.690400	-79.623800		
+	CA	L5R	Mississauga (West Hurontario / SW Gateway)	Ontario	ON	Mississauga				43.606000	-79.670800		6
+	CA	L5S	Mississauga (Cardiff / NE Gateway)	Ontario	ON	Mississauga				43.680100	-79.678300		6
+	CA	L5T	Mississauga (Courtney Park / East Gateway)	Ontario	ON	Mississauga				43.668300	-79.618200		5
+	CA	L5V	Mississauga (East Credit)	Ontario	ON	Mississauga				43.597200	-79.693100		6
+	CA	L5W	Mississauga (Meadowvale Village / West Gateway)	Ontario	ON	Mississauga				43.631300	-79.714800		6
+	CA	L7L	Burlington Northeast	Ontario	ON	Burlington				43.379900	-79.766800		1
+	CA	L7M	Burlington North	Ontario	ON	Burlington				43.434200	-79.870100		5
+	CA	L7N	Burlington East	Ontario	ON	Burlington				43.351200	-79.784000		1
+	CA	L7P	Burlington West	Ontario	ON	Burlington				43.380600	-79.886000		1
+	CA	L7R	Burlington Southeast	Ontario	ON	Burlington				43.375000	-79.843400		1
+	CA	L7S	Burlington South	Ontario	ON	Burlington				43.323000	-79.809200		1
+	CA	L7T	Burlington Southwest	Ontario	ON	Burlington				43.308100	-79.850700		1
+	CA	L9V	Orangeville North	Ontario	ON	Orangeville				43.959700	-80.107900		4
+	CA	L9W	Orangeville South	Ontario	ON	Orangeville				43.970200	-80.016000		5
+	CA	M1B	Scarborough (Malvern / Rouge River)	Ontario	ON	Scarborough				43.811300	-79.193000		6
+	CA	M1C	Scarborough (Rouge Hill / Port Union / Highland Creek)	Ontario	ON	Scarborough				43.787800	-79.156400		6
+	CA	M1E	Scarborough (Guildwood / Morningside / Ellesmere)	Ontario	ON	Scarborough				43.767800	-79.186600		6
+	CA	M1G	Scarborough (Woburn)	Ontario	ON	Scarborough				43.771200	-79.214400		6
+	CA	M1H	Scarborough (Cedarbrae)	Ontario	ON	Scarborough				43.768600	-79.238900		6
+	CA	M1J	Scarborough (Eglinton)	Ontario	ON	Scarborough				43.746400	-79.232300		6
+	CA	M1K	Scarborough (Kennedy Park / Ionview / East Birchmount Park)	Ontario	ON	Scarborough				43.729800	-79.263900		6
+	CA	M1L	Scarborough (The Golden Mile / Clairlea / Oakridge / Birchmount Park East)	Ontario	ON	Scarborough				43.712200	-79.284300		6
+	CA	M1M	Scarborough (Cliffside / Cliffcrest / Scarborough Village West)	Ontario	ON	Scarborough				43.724700	-79.231200		6
+	CA	M1N	Scarborough (Birch Cliff / Cliffside West)	Ontario	ON	Scarborough				43.695200	-79.264600		6
+	CA	M1P	Scarborough (Dorset Park / Wexford Heights / Scarborough Town Centre)	Ontario	ON	Scarborough				43.761200	-79.270700		6
+	CA	M1R	Scarborough (Wexford / Maryvale)	Ontario	ON	Scarborough				43.750700	-79.300300		6
+	CA	M1S	Scarborough (Agincourt)	Ontario	ON	Scarborough				43.794600	-79.264400		6
+	CA	M1T	Scarborough (Clarks Corners / Tam O'Shanter / Sullivan)	Ontario	ON	Scarborough				43.781200	-79.303600		6
+	CA	M1V	Scarborough (Milliken / Agincourt North / Steeles East / L'Amoreaux East)	Ontario	ON	Scarborough				43.817700	-79.281900		6
+	CA	M1W	Scarborough (Steeles West / L'Amoreaux West)	Ontario	ON	Scarborough				43.801600	-79.321600		6
+	CA	M1X	Scarborough (Upper Rouge)	Ontario	ON	Scarborough				43.834000	-79.206900		6
+	CA	N1P	Cambridge South	Ontario	ON	Cambridge				43.339800	-80.295500		1
+	CA	N1R	Cambridge Central	Ontario	ON	Cambridge				43.366600	-80.223900		5
+	CA	N1S	Cambridge Southwest	Ontario	ON	Cambridge				43.359200	-80.334700		1
+	CA	N1T	Cambridge East	Ontario	ON	Cambridge				43.384900	-80.283300		1
+	CA	N3C	Cambridge Northeast	Ontario	ON	Cambridge				43.438900	-80.264900		1
+	CA	N3E	Cambridge Northwest	Ontario	ON	Cambridge				43.419300	-80.350500		1
+	CA	N3H	Cambridge West	Ontario	ON	Cambridge				43.426700	-80.369900		1
+	CA	P0A	Nipissing Central (Burk's Falls)	Ontario	ON	Nipissing				45.588100	-79.354600		6
+	CA	P0B	Nipissing South (Utterson)	Ontario	ON	Nipissing				45.186300	-79.411500		6
+	CA	P0H	Nipissing North (Callander)	Ontario	ON	Nipissing				46.310900	-79.361700		6
+	CA	P0J	Timiskaming South (Temiskaming Shores)	Ontario	ON	Timiskaming				47.577600	-80.203600		6
+	CA	P0K	Timiskaming North (Iroquois Falls A)	Ontario	ON	Timiskaming				48.523400	-80.308100		6
+	CA	G7P	Saint-Ambroise	Quebec	QC	Saguenay/Lac-Saint-Jean	02	Saint-Ambroise	94255	48.550100	-71.315800		4
+	CA	G8B	Alma Southeast	Quebec	QC	Saguenay/Lac-Saint-Jean	02	Alma	93042	48.554800	-71.673000		1
+	CA	G8C	Alma Southwest	Quebec	QC	Saguenay/Lac-Saint-Jean	02	Alma	93042	48.527800	-71.636400		1
+	CA	G8E	Alma North	Quebec	QC	Saguenay/Lac-Saint-Jean	02	Alma	93042	48.637700	-71.695700		4
+	CA	G8H	Roberval	Quebec	QC	Saguenay/Lac-Saint-Jean	02	Roberval	91025	48.516800	-72.232400		4
+	CA	G8J	Saint-Prime	Quebec	QC	Saguenay/Lac-Saint-Jean	02	Saint-Prime	91035	48.583400	-72.332400		4
+	CA	G8K	Saint-Félicien	Quebec	QC	Saguenay/Lac-Saint-Jean	02	Saint-Félicien	91042	48.650100	-72.449100		4
+	CA	G8L	Dolbeau-Mistassini	Quebec	QC	Saguenay/Lac-Saint-Jean	02	Dolbeau-Mistassini	92022	48.876300	-72.212000		4
+	CA	G8M	Albanel	Quebec	QC	Saguenay/Lac-Saint-Jean	02	Albanel	92030	48.883200	-72.448700		4
+	CA	G8N	Hébertville	Quebec	QC	Saguenay/Lac-Saint-Jean	02	Hébertville	93020	48.347300	-71.678600		1
+	CA	J0Z	Abitibi-Témiscamingue-Ouest (Guigues)	Quebec	QC	Abitibi-Témiscamingue	08			47.862600	-78.824000		1
+	CA	J9P	Val-d'Or	Quebec	QC	Abitibi-Témiscamingue	08	Val-d'Or	89008	48.100200	-77.782800		4
+	CA	J9T	Amos	Quebec	QC	Abitibi-Témiscamingue	08	Amos	88055	48.566900	-78.116200		4
+	CA	J9V	Ville-Marie	Quebec	QC	Abitibi-Témiscamingue	08	Ville-Marie	85025	47.333400	-79.433000		4
+	CA	J9Z	La Sarre	Quebec	QC	Abitibi-Témiscamingue	08	La Sarre	87090	48.800200	-79.199600		4
+	CA	J0J	Montérégie-Est (Bedford)	Quebec	QC	Montérégie	16			45.152900	-73.163600		1
+	CA	J0L	Montérégie-Nord (Saint-Antoine-Sur-Richelieu)	Quebec	QC	Montérégie	16			45.195600	-73.569500		5
+	CA	J0S	Montérégie-Ouest (Saint-Anicet)	Quebec	QC	Montérégie	16			45.108200	-74.045100		1
+	CA	J2G	Granby Central	Quebec	QC	Montérégie	16	Granby	47017	45.404600	-72.720200		1
+	CA	J2H	Granby East	Quebec	QC	Montérégie	16	Granby	47017	45.393800	-72.700500		1
+	CA	J2J	Granby West	Quebec	QC	Montérégie	16	Granby	47017	45.400500	-72.782500		1
+	CA	J2K	Cowansville	Quebec	QC	Montérégie	16	Cowansville	46080	45.200100	-72.749100		4
+	CA	J2L	Bromont	Quebec	QC	Montérégie	16	Bromont	46078	45.316800	-72.649100		4
+	CA	J2M	Shefford	Quebec	QC	Montérégie	16	Shefford	47035	45.350100	-72.565800		4
+	CA	J2N	Farnham	Quebec	QC	Montérégie	16	Farnham	46112	45.283400	-72.982400		4
+	CA	J2R	Saint-Hyacinthe Northwest	Quebec	QC	Montérégie	16	Saint-Hyacinthe	54048	45.656700	-72.923700		1
+	CA	J2S	Saint-Hyacinthe Southwest	Quebec	QC	Montérégie	16	Saint-Hyacinthe	54048	45.613900	-72.991200		1
+	CA	J2T	Saint-Hyacinthe East	Quebec	QC	Montérégie	16	Saint-Hyacinthe	54048	45.597100	-72.936600		1
+	CA	J2X	Saint-Jean-sur-Richelieu East	Quebec	QC	Montérégie	16	Saint-Jean-sur-Richelieu	56083	45.309000	-73.219000		1
+	CA	J2Y	Saint-Jean-sur-Richelieu West	Quebec	QC	Montérégie	16	Saint-Jean-sur-Richelieu	56083	45.311400	-73.355600		1
+	CA	J3A	Saint-Jean-sur-Richelieu North	Quebec	QC	Montérégie	16	Saint-Jean-sur-Richelieu	56083	45.333900	-73.274400		4
+	CA	J3B	Saint-Jean-sur-Richelieu Central	Quebec	QC	Montérégie	16	Saint-Jean-sur-Richelieu	56083	45.283200	-73.279200		1
+	CA	J3E	Sainte-Julie	Quebec	QC	Montérégie	16	Sainte-Julie	59010	45.583400	-73.332500		4
+	CA	J3G	Beloeil West	Quebec	QC	Montérégie	16	Beloeil	57040	45.594600	-73.228300		1
+	CA	J3L	Chambly	Quebec	QC	Montérégie	16	Chambly	57005	45.450100	-73.282500		4
+	CA	J3M	Marieville	Quebec	QC	Montérégie	16	Marieville	55048	45.433400	-73.165900		4
+	CA	J3X	Varennes	Quebec	QC	Montérégie	16	Varennes	59020	45.683400	-73.432500		4
+	CA	J4B	Boucherville	Quebec	QC	Montérégie	16	Boucherville	58033	45.591000	-73.436100		4
+	CA	J4P	Saint-Lambert North	Quebec	QC	Montérégie	16	Saint-Lambert	58012	45.507300	-73.508200		1
+	CA	J4R	Saint-Lambert Central	Quebec	QC	Montérégie	16	Saint-Lambert	58012	45.492400	-73.500900		1
+	CA	J4S	Saint-Lambert South	Quebec	QC	Montérégie	16	Saint-Lambert	58012	45.481000	-73.497000		1
+	CA	J4W	Brossard Northwest	Quebec	QC	Montérégie	16	Brossard	58007	45.467400	-73.483200		1
+	CA	J4X	Brossard Southwest	Quebec	QC	Montérégie	16	Brossard	58007	45.445500	-73.484100		1
+	CA	J4Y	Brossard South	Quebec	QC	Montérégie	16	Brossard	58007	45.441400	-73.456100		1
+	CA	J4Z	Brossard Northeast	Quebec	QC	Montérégie	16	Brossard	58007	45.442400	-73.423100		1
+	CA	J5A	Saint-Constant	Quebec	QC	Montérégie	16	Saint-Constant	67035	45.366800	-73.565900		4
+	CA	J5B	Delson	Quebec	QC	Montérégie	16	Delson	67025	45.366800	-73.549200		4
+	CA	J5C	Sainte-Catherine	Quebec	QC	Montérégie	16	Sainte-Catherine	67030	45.400100	-73.582500		4
+	CA	J5R	La Prairie	Quebec	QC	Montérégie	16	La Prairie	67015	45.416800	-73.499200		4
+	CA	J6J	Châteauguay North	Quebec	QC	Montérégie	16	Châteauguay	67050	45.369100	-73.721600		1
+	CA	J6K	Châteauguay South	Quebec	QC	Montérégie	16	Châteauguay	67050	45.352600	-73.730500		1
+	CA	J6N	Beauharnois	Quebec	QC	Montérégie	16	Beauharnois	70022	45.316800	-73.865900		4
+	CA	J6R	Mercier	Quebec	QC	Montérégie	16	Mercier	67045	45.316800	-73.749200		4
+	CA	J6S	Salaberry-de-Valleyfield North	Quebec	QC	Montérégie	16	Salaberry-de-Valleyfield	70052	45.270200	-74.048200		4
+	CA	J6T	Salaberry-de-Valleyfield South	Quebec	QC	Montérégie	16	Salaberry-de-Valleyfield	70052	45.240900	-74.109800		1
+	CA	J7V	Vaudreuil-Dorion	Quebec	QC	Montérégie	16	Vaudreuil-Dorion	71083	45.400100	-74.032500		4
+	CA	G0M	Région de Beauce (Saint-Prosper-De-Dorchester)	Quebec	QC	Région de 				45.971800	-70.656500		1
+	CA	G0W	Région de Mistassini (Chambord)	Quebec	QC	Région de 				49.834000	-72.262300		1
+	CA	G9N	Shawinigan Central	Quebec	QC	Shawinigan				46.556400	-72.719800		1
+	CA	G9P	Shawinigan Southeast	Quebec	QC	Shawinigan				46.506800	-72.743600		1
+	CA	G9R	Shawinigan Northwest	Quebec	QC	Shawinigan				46.609800	-72.826600		1
+	CA	H3S	Côte-des-Neiges North	Quebec	QC	Côte-des-Neiges				45.506300	-73.629700		1
+	CA	H3T	Côte-des-Neiges Northeast	Quebec	QC	Côte-des-Neiges				45.501800	-73.619100		1
+	CA	H3V	Côte-des-Neiges East	Quebec	QC	Côte-des-Neiges				45.499000	-73.608900		1
+	CA	H3W	Côte-des-Neiges Southwest	Quebec	QC	Côte-des-Neiges				45.489700	-73.631200		1
+	CA	J4G	Longueuil North	Quebec	QC	Longueuil				45.567900	-73.476100		4
+	CA	J4H	Longueuil West	Quebec	QC	Longueuil				45.537200	-73.505600		1
+	CA	J4J	Longueuil Central	Quebec	QC	Longueuil				45.536200	-73.472100		1
+	CA	J4K	Longueuil Southwest	Quebec	QC	Longueuil				45.518300	-73.502300		1
+	CA	J4L	Longueuil Southeast	Quebec	QC	Longueuil				45.518100	-73.457600		1
+	CA	J4M	Longueuil East	Quebec	QC	Longueuil				45.541800	-73.438200		1
+	CA	J4N	Longueuil Northeast	Quebec	QC	Longueuil				45.552300	-73.455800		1
+	CA	S4L	Regina East	Saskatchewan	SK	Regina				50.413200	-104.273300		1
+	CA	S4N	Regina Northeast and East Central	Saskatchewan	SK	Regina				50.467100	-104.541000		1
+	CA	S4P	Regina Central	Saskatchewan	SK	Regina				50.419000	-104.677400		1
+	CA	S4R	Regina North Central	Saskatchewan	SK	Regina				50.485500	-104.616300		1
+	CA	S4S	Regina South Saskatchewan Provincial Government	Saskatchewan	SK	Regina				50.415300	-104.610300		1
+	CA	S4T	Regina West	Saskatchewan	SK	Regina				50.450700	-104.665000		1
+	CA	S4V	Regina Southeast	Saskatchewan	SK	Regina				50.425100	-104.538900		1
+	CA	S4W	Regina Southwest	Saskatchewan	SK	Regina				50.407800	-104.653600		1
+	CA	S4X	Regina Northwest	Saskatchewan	SK	Regina				50.506100	-104.675200		5
+	CA	S4Y	Regina Outer Northwest	Saskatchewan	SK	Regina				50.476800	-104.698600		1
+	CA	S4Z	Regina Northeast	Saskatchewan	SK	Regina				50.449700	-104.532300		1
+place Smiths FallsL
+Sorry, place name Smiths FallsL was not found.

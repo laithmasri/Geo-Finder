@@ -1,0 +1,410 @@
+filename GB.txt
+place Catfort
+	GB	PR4	Catforth	England	ENG	Lancashire	11609047			53.752500	-2.834600		3
+distance NG32 PA32
+	GB	NG32	Woolsthorpe	England	ENG	Leicestershire	11609039			52.883300	-0.750000		4
+	GB	PA32	Crarae	Scotland	SCT	Argyll and Bute	AGB			56.126300	-5.238700		4
+	Distance: 462.429336 km
+postal TF6P
+Sorry, postal code TF6P was not found.
+county KentQ
+Sorry, county KentQ was not found.
+distance SO32 EH1Y
+	GB	SO32	Curdridge	England	ENG	Hampshire	11609036			50.923700	-1.246200		4
+Sorry, postal code EH1Y was not found.
+postal FY4
+	GB	FY4	Squires Gate	England	ENG	Lancashire	11609047			53.791100	-3.029100		1
+	GB	FY4	Common Edge	England	ENG	Lancashire	11609047			53.791100	-3.029100		1
+place Bicknacret
+Sorry, place name Bicknacret was not found.
+county Cambridgeshir
+	GB	CB1	Cherry Hinton	England	ENG	Cambridgeshire	11609029			52.185300	0.172100		4
+	GB	CB1	Teversham	England	ENG	Cambridgeshire	11609029			52.203200	0.189700		4
+	GB	CB1	Lark Hall	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		3
+	GB	CB1	Hildersham	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	Bartlow	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	Little Wilbraham	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	Little Abington	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		3
+	GB	CB1	Hadstock	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	Fulbourn	England	ENG	Cambridgeshire	11609029			52.186600	0.186300		4
+	GB	CB1	Great Abington	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		3
+	GB	CB1	Balsham	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	Weston Colville	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		3
+	GB	CB1	West Wickham	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	Camps End	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		3
+	GB	CB1	Horseheath	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	Linton	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	Weston Green	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	West Wratting	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	Castle Camps	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	Shudy Camps	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	Great Wilbraham	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB1	Church End	England	ENG	Cambridgeshire	11609029			52.196900	0.142900		4
+	GB	CB10	Hinxton	England	ENG	Cambridgeshire	11609029			52.085300	0.182000		4
+	GB	CB10	Ickleton	England	ENG	Cambridgeshire	11609029			52.072300	0.177400		4
+	GB	CB2	Barrington	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		4
+	GB	CB2	Harston	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		4
+	GB	CB2	Foxton	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		4
+	GB	CB2	Little Shelford	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		3
+	GB	CB2	Sawston	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		4
+	GB	CB2	Newton	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		4
+	GB	CB2	Duxford	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		4
+	GB	CB2	Pampisford	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		4
+	GB	CB2	Babraham	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		4
+	GB	CB2	Hauxton	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		4
+	GB	CB2	Great Shelford	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		4
+	GB	CB2	Stapleford	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		4
+	GB	CB2	Whittlesford	England	ENG	Cambridgeshire	11609029			52.191000	0.124900		4
+	GB	CB2	Trumpington	England	ENG	Cambridgeshire	11609029			52.172100	0.112600		4
+	GB	CB21	Cambridge	England	ENG	Cambridgeshire	11609029			52.209300	0.148200		3
+	GB	CB21	Weston Colville	England	ENG	Cambridgeshire	11609029			52.148300	0.366800		3
+	GB	CB21	Great Abington	England	ENG	Cambridgeshire	11609029			52.112700	0.230000		3
+	GB	CB21	Little Abington	England	ENG	Cambridgeshire	11609029			52.123000	0.232200		3
+	GB	CB21	Balsham	England	ENG	Cambridgeshire	11609029			52.132400	0.315900		4
+	GB	CB21	Bartlow	England	ENG	Cambridgeshire	11609029			52.083100	0.310800		4
+	GB	CB21	Pampisford	England	ENG	Cambridgeshire	11609029			52.119400	0.217100		4
+	GB	CB21	Great Wilbraham	England	ENG	Cambridgeshire	11609029			52.193500	0.267000		4
+	GB	CB21	Shudy Camps	England	ENG	Cambridgeshire	11609029			52.075000	0.363300		4
+	GB	CB21	Fulbourn	England	ENG	Cambridgeshire	11609029			52.183200	0.222100		4
+	GB	CB21	Linton	England	ENG	Cambridgeshire	11609029			52.097800	0.276700		4
+	GB	CB21	Little Wilbraham	England	ENG	Cambridgeshire	11609029			52.203700	0.257000		4
+	GB	CB21	Horseheath	England	ENG	Cambridgeshire	11609029			52.099800	0.352200		4
+	GB	CB21	West Wratting	England	ENG	Cambridgeshire	11609029			52.142700	0.346800		4
+	GB	CB21	West Wickham	England	ENG	Cambridgeshire	11609029			52.117200	0.354400		4
+	GB	CB21	Castle Camps	England	ENG	Cambridgeshire	11609029			52.063300	0.379900		4
+	GB	CB21	Hildersham	England	ENG	Cambridgeshire	11609029			52.112600	0.253100		4
+	GB	CB22	Stapleford	England	ENG	Cambridgeshire	11609029			52.150800	0.167500		4
+	GB	CB22	Harston	England	ENG	Cambridgeshire	11609029			52.136900	0.080000		4
+	GB	CB22	Thriplow	England	ENG	Cambridgeshire	11609029			52.099600	0.096400		4
+	GB	CB22	Haslingfield	England	ENG	Cambridgeshire	11609029			52.150200	0.055800		4
+	GB	CB22	Babraham	England	ENG	Cambridgeshire	11609029			52.132100	0.209600		4
+	GB	CB22	Pampisford	England	ENG	Cambridgeshire	11609029			52.110800	0.184800		4
+	GB	CB22	Whittlesford	England	ENG	Cambridgeshire	11609029			52.113500	0.149700		4
+	GB	CB22	Barrington	England	ENG	Cambridgeshire	11609029			52.129500	0.038600		4
+	GB	CB22	Sawston	England	ENG	Cambridgeshire	11609029			52.120900	0.169400		4
+	GB	CB22	Great Shelford	England	ENG	Cambridgeshire	11609029			52.150300	0.136200		4
+	GB	CB22	Hinxton	England	ENG	Cambridgeshire	11609029			52.085300	0.182000		4
+	GB	CB22	Hauxton	England	ENG	Cambridgeshire	11609029			52.148900	0.101800		4
+	GB	CB22	Queen Edith's Ward	England	ENG	Cambridgeshire	11609029			52.167700	0.157300		3
+	GB	CB22	Little Shelford	England	ENG	Cambridgeshire	11609029			52.140900	0.123000		3
+	GB	CB22	Balsham	England	ENG	Cambridgeshire	11609029			52.144400	0.232800		4
+	GB	CB22	Newton	England	ENG	Cambridgeshire	11609029			52.123700	0.098700		4
+	GB	CB22	Cambridge	England	ENG	Cambridgeshire	11609029			52.209300	0.148200		3
+	GB	CB22	Duxford	England	ENG	Cambridgeshire	11609029			52.093900	0.159200		4
+	GB	CB22	Foxton	England	ENG	Cambridgeshire	11609029			52.115100	0.058600		4
+	GB	CB23	Cambridge	England	ENG	Cambridgeshire	11609029			52.209300	0.148200		3
+	GB	CB23	Castle Ward	England	ENG	Cambridgeshire	11609029			52.215400	0.070500		3
+	GB	CB23	Papworth St. Agnes	England	ENG	Cambridgeshire	11609029			52.260700	-0.139700		3
+	GB	CB23	Longstowe	England	ENG	Cambridgeshire	11609029			52.176000	-0.088300		3
+	GB	CB23	Knapwell	England	ENG	Cambridgeshire	11609029			52.235200	-0.054500		3
+	GB	CB23	Swavesey	England	ENG	Cambridgeshire	11609029			52.267600	0.008600		4
+	GB	CB23	Oakington and Westwick	England	ENG	Cambridgeshire	11609029			52.254300	0.035700		3
+	GB	CB23	Barton	England	ENG	Cambridgeshire	11609029			52.181500	0.058500		4
+	GB	CB23	Childerley	England	ENG	Cambridgeshire	11609029			52.230400	-0.017100		3
+	GB	CB23	Caldecote	England	ENG	Cambridgeshire	11609029			52.208700	-0.022900		4
+	GB	CB23	Little Eversden	England	ENG	Cambridgeshire	11609029			52.160700	0.007700		3
+	GB	CB23	Great Eversden	England	ENG	Cambridgeshire	11609029			52.164100	-0.009500		3
+	GB	CB23	Cambourne	England	ENG	Cambridgeshire	11609029			52.217700	-0.069500		3
+	GB	CB23	Harlton	England	ENG	Cambridgeshire	11609029			52.154800	0.025000		3
+	GB	CB23	Toft	England	ENG	Cambridgeshire	11609029			52.187200	-0.012200		4
+	GB	CB23	Eltisley	England	ENG	Cambridgeshire	11609029			52.220900	-0.142700		4
+	GB	CB23	Elsworth	England	ENG	Cambridgeshire	11609029			52.254700	-0.072300		4
+	GB	CB23	Papworth Everard	England	ENG	Cambridgeshire	11609029			52.248900	-0.118300		4
+	GB	CB23	Boxworth	England	ENG	Cambridgeshire	11609029			52.259300	-0.027000		4
+	GB	CB23	Lolworth	England	ENG	Cambridgeshire	11609029			52.257900	0.000900		4
+	GB	CB23	Dry Drayton	England	ENG	Cambridgeshire	11609029			52.241700	0.018100		4
+	GB	CB23	Hardwick	England	ENG	Cambridgeshire	11609029			52.208800	0.008200		4
+	GB	CB23	Haslingfield	England	ENG	Cambridgeshire	11609029			52.150200	0.055800		4
+	GB	CB23	Comberton	England	ENG	Cambridgeshire	11609029			52.187100	0.019100		4
+	GB	CB23	Bar Hill	England	ENG	Cambridgeshire	11609029			52.249000	0.028800		4
+	GB	CB23	Longstanton	England	ENG	Cambridgeshire	11609029			52.280800	0.045600		4
+	GB	CB23	Kingston	England	ENG	Cambridgeshire	11609029			52.178200	-0.033000		4
+	GB	CB23	Harston	England	ENG	Cambridgeshire	11609029			52.214900	-0.027900		4
+	GB	CB23	Grantchester	England	ENG	Cambridgeshire	11609029			52.192900	0.079100		3
+	GB	CB23	Conington	England	ENG	Cambridgeshire	11609029			52.277400	-0.065600		4
+	GB	CB23	Coton	England	ENG	Cambridgeshire	11609029			52.210600	0.060900		4
+	GB	CB23	Caxton	England	ENG	Cambridgeshire	11609029			52.205800	-0.092500		4
+	GB	CB23	Madingley	England	ENG	Cambridgeshire	11609029			52.227900	0.042700		4
+	GB	CB23	Bourn	England	ENG	Cambridgeshire	11609029			52.192500	-0.064000		4
+	GB	CB24	Cottenham	England	ENG	Cambridgeshire	11609029			52.287400	0.125400		4
+	GB	CB24	Fen Ditton	England	ENG	Cambridgeshire	11609029			52.236000	0.173900		3
+	GB	CB24	Oakington and Westwick	England	ENG	Cambridgeshire	11609029			52.260400	0.067100		3
+	GB	CB24	Fen Drayton	England	ENG	Cambridgeshire	11609029			52.296600	-0.041000		3
+	GB	CB24	Cambridge	England	ENG	Cambridgeshire	11609029			52.209300	0.148200		3
+	GB	CB24	Waterbeach	England	ENG	Cambridgeshire	11609029			52.277100	0.083400		4
+	GB	CB24	Willingham	England	ENG	Cambridgeshire	11609029			52.314000	0.057800		4
+	GB	CB24	Swavesey	England	ENG	Cambridgeshire	11609029			52.301600	-0.004800		4
+	GB	CB24	Impington	England	ENG	Cambridgeshire	11609029			52.245800	0.113300		3
+	GB	CB24	Rampton	England	ENG	Cambridgeshire	11609029			52.293000	0.087200		4
+	GB	CB24	Milton	England	ENG	Cambridgeshire	11609029			52.233300	0.150000		4
+	GB	CB24	Over	England	ENG	Cambridgeshire	11609029			52.316700	0.016700		4
+	GB	CB24	Longstanton	England	ENG	Cambridgeshire	11609029			52.280800	0.045600		4
+	GB	CB24	Histon	England	ENG	Cambridgeshire	11609029			52.251700	0.106400		4
+	GB	CB25	Stow cum Quy	England	ENG	Cambridgeshire	11609029			52.223200	0.225200		4
+	GB	CB25	Bottisham	England	ENG	Cambridgeshire	11609029			52.222800	0.258800		4
+	GB	CB25	Swaffham Prior	England	ENG	Cambridgeshire	11609029			52.252400	0.300700		4
+	GB	CB25	Waterbeach	England	ENG	Cambridgeshire	11609029			52.265500	0.191200		4
+	GB	CB25	Horningsea	England	ENG	Cambridgeshire	11609029			52.240000	0.185500		4
+	GB	CB25	Lode	England	ENG	Cambridgeshire	11609029			52.241200	0.244400		4
+	GB	CB25	Landbeach	England	ENG	Cambridgeshire	11609029			52.264500	0.162300		4
+	GB	CB25	Abbey Ward	England	ENG	Cambridgeshire	11609029			52.259900	0.228800		3
+	GB	CB25	Stretham	England	ENG	Cambridgeshire	11609029			52.321000	0.200600		4
+	GB	CB25	Cottenham	England	ENG	Cambridgeshire	11609029			52.312600	0.189200		4
+	GB	CB25	Reach	England	ENG	Cambridgeshire	11609029			52.271100	0.295400		3
+	GB	CB25	Swaffham Bulbeck	England	ENG	Cambridgeshire	11609029			52.238200	0.277000		4
+	GB	CB25	Burwell	England	ENG	Cambridgeshire	11609029			52.276300	0.327300		4
+	GB	CB3	Girton	England	ENG	Cambridgeshire	11609029			52.233300	0.083300		4
+	GB	CB3	Dry Drayton	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Kingston	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Conington	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Hardwick	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Lolworth	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Comberton	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Elsworth	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Barton	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Caldecote	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Caxton	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Bourn	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Haslingfield	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Bar Hill	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Boxworth	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Madingley	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Harlton	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		3
+	GB	CB3	Longstowe	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		3
+	GB	CB3	Frog End	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		3
+	GB	CB3	Great Eversden	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		3
+	GB	CB3	Highfields	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		3
+	GB	CB3	Grantchester	England	ENG	Cambridgeshire	11609029			52.180500	0.091400		3
+	GB	CB3	Caxton Gibbet	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		3
+	GB	CB3	Papworth Everard	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Toft	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		4
+	GB	CB3	Knapwell	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		3
+	GB	CB3	Little Eversden	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		3
+	GB	CB3	Papworth St Agnes	England	ENG	Cambridgeshire	11609029			52.211800	0.100600		3
+	GB	CB3	Coton	England	ENG	Cambridgeshire	11609029			52.210600	0.060900		4
+	GB	CB4	Milton	England	ENG	Cambridgeshire	11609029			52.233300	0.150000		4
+	GB	CB4	Chesterton	England	ENG	Cambridgeshire	11609029			52.221200	0.142000		4
+	GB	CB4	Impington	England	ENG	Cambridgeshire	11609029			52.230000	0.115900		3
+	GB	CB4	Rampton	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		4
+	GB	CB4	Longstanton	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		4
+	GB	CB4	Landbeach	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		4
+	GB	CB4	Westwick	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		3
+	GB	CB4	Cottenham	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		4
+	GB	CB4	Over	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		4
+	GB	CB4	Church End	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		4
+	GB	CB4	Willingham	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		4
+	GB	CB4	Fen Drayton	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		3
+	GB	CB4	Boxworth End	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		3
+	GB	CB4	Oakington	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		4
+	GB	CB4	Histon	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		4
+	GB	CB4	Swavesey	England	ENG	Cambridgeshire	11609029			52.222800	0.130500		4
+	GB	CB5	Commercial End	England	ENG	Cambridgeshire	11609029			52.212400	0.153400		3
+	GB	CB5	Chittering	England	ENG	Cambridgeshire	11609029			52.212400	0.153400		3
+	GB	CB5	Reach	England	ENG	Cambridgeshire	11609029			52.212400	0.153400		3
+	GB	CB5	Bottisham	England	ENG	Cambridgeshire	11609029			52.212400	0.153400		4
+	GB	CB5	Stow cum Quy	England	ENG	Cambridgeshire	11609029			52.212400	0.153400		4
+	GB	CB5	Fen Ditton	England	ENG	Cambridgeshire	11609029			52.220900	0.173900		3
+	GB	CB5	Horningsea	England	ENG	Cambridgeshire	11609029			52.212400	0.153400		4
+	GB	CB5	Lode	England	ENG	Cambridgeshire	11609029			52.212400	0.153400		4
+	GB	CB5	Swaffham Prior	England	ENG	Cambridgeshire	11609029			52.212400	0.153400		4
+	GB	CB5	Waterbeach	England	ENG	Cambridgeshire	11609029			52.212400	0.153400		4
+	GB	CB5	Swaffham Bulbeck	England	ENG	Cambridgeshire	11609029			52.212400	0.153400		4
+	GB	CB5	Cambridge	England	ENG	Cambridgeshire	11609029			52.212400	0.153400		4
+	GB	CB5	Burwell	England	ENG	Cambridgeshire	11609029			52.212400	0.153400		4
+	GB	CB6	Little Downham	England	ENG	Cambridgeshire	11609029			52.405300	0.221900		3
+	GB	CB6	Wardy Hill	England	ENG	Cambridgeshire	11609029			52.405300	0.221900		3
+	GB	CB6	Pymore	England	ENG	Cambridgeshire	11609029			52.405300	0.221900		3
+	GB	CB6	Little Thetford	England	ENG	Cambridgeshire	11609029			52.405300	0.221900		3
+	GB	CB6	Apes Hall	England	ENG	Cambridgeshire	11609029			52.405300	0.221900		3
+	GB	CB6	Sutton	England	ENG	Cambridgeshire	11609029			52.390100	0.117600		4
+	GB	CB6	Wentworth	England	ENG	Cambridgeshire	11609029			52.386400	0.167200		4
+	GB	CB6	Aldreth	England	ENG	Cambridgeshire	11609029			52.405300	0.221900		3
+	GB	CB6	Littleport	England	ENG	Cambridgeshire	11609029			52.457800	0.306000		4
+	GB	CB6	Wilburton	England	ENG	Cambridgeshire	11609029			52.351900	0.176700		4
+	GB	CB6	Witcham	England	ENG	Cambridgeshire	11609029			52.398400	0.149300		4
+	GB	CB6	Coveney	England	ENG	Cambridgeshire	11609029			52.416700	0.188500		4
+	GB	CB6	Haddenham	England	ENG	Cambridgeshire	11609029			52.357900	0.148300		4
+	GB	CB6	Witchford	England	ENG	Cambridgeshire	11609029			52.387000	0.206000		4
+	GB	CB6	Chettisham	England	ENG	Cambridgeshire	11609029			52.422600	0.275600		4
+	GB	CB6	Mepal	England	ENG	Cambridgeshire	11609029			52.406200	0.117700		4
+	GB	CB6	Stretham	England	ENG	Cambridgeshire	11609029			52.347100	0.218500		4
+	GB	CB7	Wicken	England	ENG	Cambridgeshire	11609029			52.312800	0.297200		4
+	GB	CB7	Chippenham	England	ENG	Cambridgeshire	11609029			52.301800	0.436400		4
+	GB	CB7	Down Field	England	ENG	Cambridgeshire	11609029			52.365500	0.340100		3
+	GB	CB7	Broad Hill	England	ENG	Cambridgeshire	11609029			52.365500	0.340100		3
+	GB	CB7	Queen Adelaide	England	ENG	Cambridgeshire	11609029			52.365500	0.340100		3
+	GB	CB7	River Bank	England	ENG	Cambridgeshire	11609029			52.365500	0.340100		3
+	GB	CB7	Upware	England	ENG	Cambridgeshire	11609029			52.365500	0.340100		3
+	GB	CB7	Brandon Creek	England	ENG	Cambridgeshire	11609029			52.365800	0.320300		4
+	GB	CB7	Brandon Bank	England	ENG	Cambridgeshire	11609029			52.365500	0.340100		3
+	GB	CB7	Stuntney	England	ENG	Cambridgeshire	11609029			52.380700	0.284000		4
+	GB	CB7	Fordham	England	ENG	Cambridgeshire	11609029			52.311300	0.390600		4
+	GB	CB7	Isleham	England	ENG	Cambridgeshire	11609029			52.342900	0.412100		4
+	GB	CB7	Soham	England	ENG	Cambridgeshire	11609029			52.331800	0.338700		4
+	GB	CB7	Prickwillow	England	ENG	Cambridgeshire	11609029			52.416900	0.346000		4
+	GB	CB7	Ely	England	ENG	Cambridgeshire	11609029			52.398600	0.258100		4
+	GB	CB7	Barway	England	ENG	Cambridgeshire	11609029			52.358200	0.268000		4
+	GB	CB8	Ashley	England	ENG	Cambridgeshire	11609029			52.226400	0.484100		4
+	GB	CB8	Westley Waterless	England	ENG	Cambridgeshire	11609029			52.181800	0.366700		4
+	GB	CB8	Kennett	England	ENG	Cambridgeshire	11609029			52.285000	0.487600		4
+	GB	CB8	Dunstall Green	England	ENG	Cambridgeshire	11609029			52.208500	0.417500		3
+	GB	CB8	Kirtling Green	England	ENG	Cambridgeshire	11609029			52.208500	0.417500		3
+	GB	CB8	Saxon Street	England	ENG	Cambridgeshire	11609029			52.208500	0.417500		3
+	GB	CB8	Upend	England	ENG	Cambridgeshire	11609029			52.208500	0.417500		3
+	GB	CB8	Lady's Green	England	ENG	Cambridgeshire	11609029			52.208500	0.417500		3
+	GB	CB8	Ditton Green	England	ENG	Cambridgeshire	11609029			52.208500	0.417500		3
+	GB	CB8	Landwade	England	ENG	Cambridgeshire	11609029			52.208500	0.417500		3
+	GB	CB8	Clopton Green	England	ENG	Cambridgeshire	11609029			52.208500	0.417500		3
+	GB	CB8	Carlton	England	ENG	Cambridgeshire	11609029			52.153300	0.395200		4
+	GB	CB8	Burrough End	England	ENG	Cambridgeshire	11609029			52.208500	0.417500		3
+	GB	CB8	Thorns	England	ENG	Cambridgeshire	11609029			52.208500	0.417500		3
+	GB	CB8	Brinkley	England	ENG	Cambridgeshire	11609029			52.166800	0.381900		4
+	GB	CB8	Stetchworth	England	ENG	Cambridgeshire	11609029			52.200000	0.400000		4
+	GB	CB8	Snailwell	England	ENG	Cambridgeshire	11609029			52.280900	0.409000		4
+	GB	CB8	Six Mile Bottom	England	ENG	Cambridgeshire	11609029			52.188200	0.306700		4
+	GB	CB8	Burrough Green	England	ENG	Cambridgeshire	11609029			52.173200	0.394500		4
+	GB	CB8	Kirtling	England	ENG	Cambridgeshire	11609029			52.186200	0.472500		4
+	GB	CB8	Woodditton	England	ENG	Cambridgeshire	11609029			52.197400	0.429300		4
+	GB	CB8	Cheveley	England	ENG	Cambridgeshire	11609029			52.220500	0.464300		4
+	GB	CB8	Dullingham	England	ENG	Cambridgeshire	11609029			52.194900	0.383700		4
+	GB	PE1	Newark	England	ENG	Cambridgeshire	11609029			52.587000	-0.239000		4
+	GB	PE1	New England	England	ENG	Cambridgeshire	11609029			52.587000	-0.239000		3
+	GB	PE1	Peterborough	England	ENG	Cambridgeshire	11609029			52.573600	-0.247800		4
+	GB	PE13	Wisbech St Mary	England	ENG	Cambridgeshire	11609029			52.652200	0.097700		4
+	GB	PE13	Murrow	England	ENG	Cambridgeshire	11609029			52.642600	0.027400		4
+	GB	PE13	Tydd St Giles	England	ENG	Cambridgeshire	11609029			52.728200	0.111100		4
+	GB	PE13	Parson Drove	England	ENG	Cambridgeshire	11609029			52.656500	0.023800		4
+	GB	PE13	Wisbech	England	ENG	Cambridgeshire	11609029			52.666200	0.159400		4
+	GB	PE13	New Walsoken	England	ENG	Cambridgeshire	11609029			52.669800	0.137300		3
+	GB	PE13	Gorefield	England	ENG	Cambridgeshire	11609029			52.679800	0.087800		3
+	GB	PE13	Fitton End	England	ENG	Cambridgeshire	11609029			52.669800	0.137300		3
+	GB	PE13	Ring's End	England	ENG	Cambridgeshire	11609029			52.669800	0.137300		3
+	GB	PE13	Tydd Gote	England	ENG	Cambridgeshire	11609029			52.669800	0.137300		3
+	GB	PE13	Church End	England	ENG	Cambridgeshire	11609029			52.669800	0.137300		4
+	GB	PE13	Tholomas Drove	England	ENG	Cambridgeshire	11609029			52.669800	0.137300		3
+	GB	PE13	Four Gotes	England	ENG	Cambridgeshire	11609029			52.669800	0.137300		3
+	GB	PE13	Newton	England	ENG	Cambridgeshire	11609029			52.706200	0.121600		4
+	GB	PE13	Guyhirn	England	ENG	Cambridgeshire	11609029			52.608700	0.059500		4
+	GB	PE13	Leverington	England	ENG	Cambridgeshire	11609029			52.682100	0.136700		4
+	GB	PE14	Christchurch	England	ENG	Cambridgeshire	11609029			52.552600	0.195100		3
+	GB	PE14	Coldham	England	ENG	Cambridgeshire	11609029			52.604500	0.116900		4
+	GB	PE14	Elm	England	ENG	Cambridgeshire	11609029			52.636400	0.171000		4
+	GB	PE15	Manea	England	ENG	Cambridgeshire	11609029			52.483000	0.178600		4
+	GB	PE15	Doddington	England	ENG	Cambridgeshire	11609029			52.496700	0.060200		4
+	GB	PE15	Wimblington	England	ENG	Cambridgeshire	11609029			52.509200	0.084200		4
+	GB	PE15	March	England	ENG	Cambridgeshire	11609029			52.551300	0.088300		4
+	GB	PE15	Purls Bridge	England	ENG	Cambridgeshire	11609029			52.510100	0.102800		3
+	GB	PE15	Benwick	England	ENG	Cambridgeshire	11609029			52.497400	-0.024600		3
+	GB	PE15	Town End	England	ENG	Cambridgeshire	11609029			52.510100	0.102800		3
+	GB	PE15	Hobbs Lots Bridge	England	ENG	Cambridgeshire	11609029			52.510100	0.102800		3
+	GB	PE15	Westry	England	ENG	Cambridgeshire	11609029			52.510100	0.102800		3
+	GB	PE16	Chatteris	England	ENG	Cambridgeshire	11609029			52.454000	0.050100		4
+	GB	PE16	Horseway	England	ENG	Cambridgeshire	11609029			52.454000	0.050100		3
+	GB	PE16	Welches Dam	England	ENG	Cambridgeshire	11609029			52.454000	0.050100		3
+	GB	PE19	Great Paxton	England	ENG	Cambridgeshire	11609029			52.260600	-0.228200		4
+	GB	PE19	Croxton	England	ENG	Cambridgeshire	11609029			52.224900	-0.179000		4
+	GB	PE19	Staughton Highway	England	ENG	Cambridgeshire	11609029			52.231200	-0.239300		3
+	GB	PE19	Staughton Green	England	ENG	Cambridgeshire	11609029			52.231200	-0.239300		3
+	GB	PE19	Toseland	England	ENG	Cambridgeshire	11609029			52.247100	-0.194100		3
+	GB	PE19	Eaton Ford	England	ENG	Cambridgeshire	11609029			52.231200	-0.239300		3
+	GB	PE19	Eynesbury	England	ENG	Cambridgeshire	11609029			52.231200	-0.239300		3
+	GB	PE19	Duloe	England	ENG	Cambridgeshire	11609029			52.231200	-0.239300		3
+	GB	PE19	Eltisley	England	ENG	Cambridgeshire	11609029			52.220900	-0.142700		4
+	GB	PE19	St Neots	England	ENG	Cambridgeshire	11609029			52.216700	-0.266700		4
+	GB	PE19	Great Staughton	England	ENG	Cambridgeshire	11609029			52.267600	-0.341200		4
+	GB	PE19	Eaton Socon	England	ENG	Cambridgeshire	11609029			52.217500	-0.289200		4
+	GB	PE19	Hail Weston	England	ENG	Cambridgeshire	11609029			52.245400	-0.294300		4
+	GB	PE19	Abbotsley	England	ENG	Cambridgeshire	11609029			52.194000	-0.206600		4
+	GB	PE19	Little Paxton	England	ENG	Cambridgeshire	11609029			52.250500	-0.258000		4
+	GB	PE19	Yelling	England	ENG	Cambridgeshire	11609029			52.246200	-0.153200		4
+	GB	PE2	Orton Waterville	England	ENG	Cambridgeshire	11609029			52.552900	-0.293500		4
+	GB	PE2	Alwalton	England	ENG	Cambridgeshire	11609029			52.558400	-0.262500		4
+	GB	PE2	Orton Longueville	England	ENG	Cambridgeshire	11609029			52.551200	-0.276700		4
+	GB	PE2	Old Fletton	England	ENG	Cambridgeshire	11609029			52.557300	-0.272800		3
+	GB	PE2	Woodston	England	ENG	Cambridgeshire	11609029			52.557300	-0.272800		3
+	GB	PE2	Stanground	England	ENG	Cambridgeshire	11609029			52.554400	-0.221100		4
+	GB	PE26	Huntingdon	England	ENG	Cambridgeshire	11609029			52.453600	-0.116200		4
+	GB	PE27	St. Ives	England	ENG	Cambridgeshire	11609029			52.332500	-0.075000		1
+	GB	PE28	Huntingdon	England	ENG	Cambridgeshire	11609029			52.330500	-0.186500		4
+	GB	PE29	Huntingdon	England	ENG	Cambridgeshire	11609029			52.330500	-0.186500		4
+	GB	PE3	Longthorpe	England	ENG	Cambridgeshire	11609029			52.567000	-0.283000		4
+	GB	PE4	Werrington	England	ENG	Cambridgeshire	11609029			52.614000	-0.272300		4
+	GB	PE4	Walton	England	ENG	Cambridgeshire	11609029			52.600000	-0.266700		4
+	GB	PE5	Ailsworth	England	ENG	Cambridgeshire	11609029			52.576000	-0.351800		3
+	GB	PE5	Sutton	England	ENG	Cambridgeshire	11609029			52.577300	-0.384600		4
+	GB	PE5	Upton	England	ENG	Cambridgeshire	11609029			52.590600	-0.369400		4
+	GB	PE5	Castor	England	ENG	Cambridgeshire	11609029			52.573200	-0.346000		4
+	GB	PE6	Peakirk	England	ENG	Cambridgeshire	11609029			52.645700	-0.272900		4
+	GB	PE6	Etton	England	ENG	Cambridgeshire	11609029			52.634700	-0.318500		4
+	GB	PE6	Deeping Gate	England	ENG	Cambridgeshire	11609029			52.667900	-0.302100		3
+	GB	PE6	Glinton	England	ENG	Cambridgeshire	11609029			52.639200	-0.296300		4
+	GB	PE6	Newborough	England	ENG	Cambridgeshire	11609029			52.638900	-0.223300		4
+	GB	PE6	Helpston	England	ENG	Cambridgeshire	11609029			52.632300	-0.346800		4
+	GB	PE6	Eye	England	ENG	Cambridgeshire	11609029			52.608000	-0.192100		4
+	GB	PE6	Northborough	England	ENG	Cambridgeshire	11609029			52.658700	-0.298200		4
+	GB	PE6	Marholm	England	ENG	Cambridgeshire	11609029			52.604700	-0.308200		4
+	GB	PE6	Maxey	England	ENG	Cambridgeshire	11609029			52.658400	-0.334000		4
+	GB	PE6	Thorney	England	ENG	Cambridgeshire	11609029			52.621500	-0.108100		4
+	GB	PE7	Holme	England	ENG	Cambridgeshire	11609029			52.475900	-0.245300		4
+	GB	PE7	Haddon	England	ENG	Cambridgeshire	11609029			52.520300	-0.328400		4
+	GB	PE7	Farcet	England	ENG	Cambridgeshire	11609029			52.536300	-0.228800		4
+	GB	PE7	Stilton	England	ENG	Cambridgeshire	11609029			52.487900	-0.288900		4
+	GB	PE7	Yaxley	England	ENG	Cambridgeshire	11609029			52.517700	-0.258500		4
+	GB	PE7	Morborne	England	ENG	Cambridgeshire	11609029			52.509900	-0.321000		4
+	GB	PE7	Conington	England	ENG	Cambridgeshire	11609029			52.458400	-0.270800		4
+	GB	PE7	Caldecote	England	ENG	Cambridgeshire	11609029			52.536900	-0.204100		4
+	GB	PE7	Denton	England	ENG	Cambridgeshire	11609029			52.536900	-0.204100		4
+	GB	PE7	Eldernell	England	ENG	Cambridgeshire	11609029			52.500800	-0.301700		3
+	GB	PE7	Eastrea	England	ENG	Cambridgeshire	11609029			52.500800	-0.301700		3
+	GB	PE7	Coates	England	ENG	Cambridgeshire	11609029			52.500800	-0.301700		3
+	GB	PE7	Whittlesey	England	ENG	Cambridgeshire	11609029			52.558000	-0.130200		4
+	GB	PE7	Chesterton	England	ENG	Cambridgeshire	11609029			52.533300	-0.333300		4
+	GB	PE7	Folksworth	England	ENG	Cambridgeshire	11609029			52.495400	-0.312800		4
+	GB	PE7	Norman Cross	England	ENG	Cambridgeshire	11609029			52.504000	-0.291800		4
+	GB	PE8	Wittering	England	ENG	Cambridgeshire	11609029			52.607000	-0.440500		4
+	GB	PE8	Thornhaugh	England	ENG	Cambridgeshire	11609029			52.592500	-0.424200		4
+	GB	PE8	Elton	England	ENG	Cambridgeshire	11609029			52.531300	-0.395300		4
+	GB	PE8	Water Newton	England	ENG	Cambridgeshire	11609029			52.561100	-0.364400		4
+	GB	PE9	Bainton	England	ENG	Cambridgeshire	11609029			52.641100	-0.382400		3
+	GB	PE9	Southorpe	England	ENG	Cambridgeshire	11609029			52.610600	-0.405100		4
+	GB	PE9	Barnack	England	ENG	Cambridgeshire	11609029			52.631800	-0.408200		4
+	GB	PE9	Ufford	England	ENG	Cambridgeshire	11609029			52.623800	-0.384300		4
+	GB	PE99	City of Peterborough	England	ENG	Cambridgeshire	11609029			52.614000	-0.287200		1
+	GB	SG19	Little Gransden	England	ENG	Cambridgeshire	11609029			52.176200	-0.138200		3
+	GB	SG19	Waresley	England	ENG	Cambridgeshire	11609029			52.175100	-0.174100		4
+	GB	SG19	East Hatley	England	ENG	Cambridgeshire	11609029			52.139700	-0.118700		4
+	GB	SG19	Gamlingay	England	ENG	Cambridgeshire	11609029			52.155600	-0.193000		4
+	GB	SG19	Great Gransden	England	ENG	Cambridgeshire	11609029			52.185500	-0.145700		4
+	GB	SG19	Hatley St George	England	ENG	Cambridgeshire	11609029			52.142500	-0.138800		4
+	GB	SG8	Guilden Morden	England	ENG	Cambridgeshire	11609029			52.080800	-0.133000		4
+	GB	SG8	Heydon	England	ENG	Cambridgeshire	11609029			52.040300	0.086900		4
+	GB	SG8	Steeple Morden	England	ENG	Cambridgeshire	11609029			52.066500	-0.124800		4
+	GB	SG8	Fowlmere	England	ENG	Cambridgeshire	11609029			52.093400	0.074300		4
+	GB	SG8	Orwell	England	ENG	Cambridgeshire	11609029			52.135600	-0.011000		4
+	GB	SG8	Litlington	England	ENG	Cambridgeshire	11609029			52.067200	-0.088400		4
+	GB	SG8	Shepreth	England	ENG	Cambridgeshire	11609029			52.112400	0.032500		4
+	GB	SG8	Thriplow	England	ENG	Cambridgeshire	11609029			52.099600	0.096400		4
+	GB	SG8	Arrington	England	ENG	Cambridgeshire	11609029			52.134700	-0.061200		4
+	GB	SG8	Whaddon	England	ENG	Cambridgeshire	11609029			52.102100	-0.027000		4
+	GB	SG8	Kneesworth	England	ENG	Cambridgeshire	11609029			52.074400	-0.023800		3
+	GB	SG8	Bridgefoot	England	ENG	Cambridgeshire	11609029			52.074400	-0.023800		3
+	GB	SG8	Little Chishill	England	ENG	Cambridgeshire	11609029			52.074400	-0.023800		3
+	GB	SG8	Tadlow	England	ENG	Cambridgeshire	11609029			52.110500	-0.132700		3
+	GB	SG8	Chrishall Grange	England	ENG	Cambridgeshire	11609029			52.074400	-0.023800		3
+	GB	SG8	New Wimpole	England	ENG	Cambridgeshire	11609029			52.074400	-0.023800		3
+	GB	SG8	Whaddon Gap	England	ENG	Cambridgeshire	11609029			52.074400	-0.023800		3
+	GB	SG8	Great Chishill	England	ENG	Cambridgeshire	11609029			52.074400	-0.023800		3
+	GB	SG8	Abington Pigotts	England	ENG	Cambridgeshire	11609029			52.082900	-0.094600		3
+	GB	SG8	Flint Cross	England	ENG	Cambridgeshire	11609029			52.074400	-0.023800		3
+	GB	SG8	Melbourn	England	ENG	Cambridgeshire	11609029			52.081300	0.015100		4
+	GB	SG8	Wendy	England	ENG	Cambridgeshire	11609029			52.111500	-0.069200		4
+	GB	SG8	Shingay	England	ENG	Cambridgeshire	11609029			52.100000	-0.083300		4
+	GB	SG8	Croydon	England	ENG	Cambridgeshire	11609029			52.128400	-0.077800		4
+	GB	SG8	Bassingbourn	England	ENG	Cambridgeshire	11609029			52.078200	-0.053900		4
+	GB	SG8	Meldreth	England	ENG	Cambridgeshire	11609029			52.094000	0.008100		4
+distance BS37R AB44
+	GB	AB44	Newtown	Scotland	SCT	Aberdeenshire	ABD			57.668300	-2.492400		4
+Sorry, postal code BS37R was not found.
+distance WD6X BN2<
+Sorry, postal code WD6X was not found.
+Sorry, postal code BN2< was not found.
